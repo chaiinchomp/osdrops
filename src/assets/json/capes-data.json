@@ -59,24 +59,6 @@
             ]
         },
         {
-            "title": "Melee Capes",
-            "cumulative": false,
-            "grid": [
-                "grid-horizontal",
-                "grid-h2"
-            ],
-            "items": [
-                {
-                    "id": 109,
-                    "title": "Fire Cape"
-                },
-                {
-                    "id": 110,
-                    "title": "Infernal Cape"
-                }
-            ]
-        },
-        {
             "title": "Other Accomplishments",
             "cumulative": false,
             "grid": [
