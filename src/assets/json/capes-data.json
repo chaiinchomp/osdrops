@@ -1,0 +1,260 @@
+{
+    "Capes": [
+        {
+            "title": "God Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v2"
+            ],
+            "items": [
+                {
+                    "id": 91,
+                    "title": "Guthix Cape"
+                },
+                {
+                    "id": 92,
+                    "title": "Imbued Guthix Cape"
+                },
+                {
+                    "id": 95,
+                    "title": "Saradomin Cape"
+                },
+                {
+                    "id": 93,
+                    "title": "Imbued Saradomin Cape"
+                },
+                {
+                    "id": 96,
+                    "title": "Zamorak Cape"
+                },
+                {
+                    "id": 94,
+                    "title": "Imbued Zamorak Cape"
+                }
+            ]
+        },
+        {
+            "title": "Max Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h6"
+            ],
+            "items": [
+                {
+                    "id": 106,
+                    "title": "Max Cape"
+                },
+                {
+                    "id": 97,
+                    "title": "Ardougne Max Cape"
+                },
+                {
+                    "id": 98,
+                    "title": "Assembler Max Cape"
+                },
+                {
+                    "id": 99,
+                    "title": "Ava's Max Cape"
+                },
+                {
+                    "id": 100,
+                    "title": "Fire Max Cape"
+                },
+                {
+                    "id": 101,
+                    "title": "Guthix Max Cape"
+                },
+                {
+                    "id": 102,
+                    "title": "Imbued Guthix Max Cape"
+                },
+                {
+                    "id": 103,
+                    "title": "Imbued Saradomin Max Cape"
+                },
+                {
+                    "id": 104,
+                    "title": "Imbued Zamorak Max Cape"
+                },
+                {
+                    "id": 105,
+                    "title": "Infernal Max Cape"
+                },
+                {
+                    "id": 107,
+                    "title": "Saradomin Max Cape"
+                },
+                {
+                    "id": 108,
+                    "title": "Zamorak Max Cape"
+                }
+            ]
+        },
+        {
+            "title": "Melee Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 109,
+                    "title": "Fire Cape"
+                },
+                {
+                    "id": 110,
+                    "title": "Infernal Cape"
+                }
+            ]
+        },
+        {
+            "title": "Other Accomplishments",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 111,
+                    "title": "Achievement Diary Cape"
+                },
+                {
+                    "id": 112,
+                    "title": "Music Cape"
+                },
+                {
+                    "id": 113,
+                    "title": "Quest Point Cape"
+                }
+            ]
+        },
+        {
+            "title": "Other Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 114,
+                    "title": "Cape Of Legends"
+                },
+                {
+                    "id": 115,
+                    "title": "Champion's Cape"
+                },
+                {
+                    "id": 116,
+                    "title": "Mythical Cape"
+                }
+            ]
+        },
+        {
+            "title": "Skill Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h6"
+            ],
+            "items": [
+                {
+                    "id": 117,
+                    "title": "Agility Cape"
+                },
+                {
+                    "id": 118,
+                    "title": "Attack Cape"
+                },
+                {
+                    "id": 119,
+                    "title": "Construction Cape"
+                },
+                {
+                    "id": 120,
+                    "title": "Cooking Cape"
+                },
+                {
+                    "id": 121,
+                    "title": "Crafting Cape"
+                },
+                {
+                    "id": 122,
+                    "title": "Defence Cape"
+                },
+                {
+                    "id": 123,
+                    "title": "Farming Cape"
+                },
+                {
+                    "id": 124,
+                    "title": "Firemaking Cape"
+                },
+                {
+                    "id": 125,
+                    "title": "Fishing Cape"
+                },
+                {
+                    "id": 126,
+                    "title": "Fletching Cape"
+                },
+                {
+                    "id": 127,
+                    "title": "Herblore Cape"
+                },
+                {
+                    "id": 128,
+                    "title": "Hitpoints Cape"
+                },
+                {
+                    "id": 129,
+                    "title": "Hunter Cape"
+                },
+                {
+                    "id": 130,
+                    "title": "Magic Cape"
+                },
+                {
+                    "id": 131,
+                    "title": "Mining Cape"
+                },
+                {
+                    "id": 132,
+                    "title": "Prayer Cape"
+                },
+                {
+                    "id": 133,
+                    "title": "Ranging Cape"
+                },
+                {
+                    "id": 134,
+                    "title": "Runecraft Cape"
+                },
+                {
+                    "id": 135,
+                    "title": "Slayer Cape"
+                },
+                {
+                    "id": 136,
+                    "title": "Smithing Cape"
+                },
+                {
+                    "id": 137,
+                    "title": "Strength Cape"
+                },
+                {
+                    "id": 138,
+                    "title": "Thieving Cape"
+                },
+                {
+                    "id": 139,
+                    "title": "Woodcutting Cape"
+                }
+            ]
+        }
+    ]
+}

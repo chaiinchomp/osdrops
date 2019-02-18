@@ -6,7 +6,63 @@
       </template>
       <ItemSearch />
       <ItemSection
-        v-for="(section, title) in sections"
+        v-for="(section, title) in diariesData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in combatData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in capesData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in collectiblesData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in constructionData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in jewelry"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in minigamesData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
+        v-for="(section, title) in petsData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ClueSection
+        v-for="(section, title) in cluesData"
         :title="title"
         :cards="section"
         :editable="editable"
@@ -38,11 +94,20 @@
 
 <script>
 import ItemSection from "@/components/ItemSection.vue";
+import ClueSection from "@/components/ClueSection.vue";
 import ItemSearch from "@/components/ItemSearch.vue";
 import BackToTop from "@/components/BackToTop.vue";
 import DialogBinary from "@/components/DialogBinary.vue";
 import DialogShare from "@/components/DialogShare.vue";
-import itemData from "@/assets/json/item-data.json";
+import capesData from "@/assets/json/capes-data.json";
+import collectiblesData from "@/assets/json/collectibles-data.json";
+import combatData from "@/assets/json/combat-data.json";
+import constructionData from "@/assets/json/construction-data.json";
+import diariesData from "@/assets/json/diaries-data.json";
+import jewelryData from "@/assets/json/jewelry-data.json";
+import minigamesData from "@/assets/json/minigames-data.json";
+import petsData from "@/assets/json/pets-data.json";
+import cluesData from "@/assets/json/clues-data.json";
 import { mapActions } from "vuex";
 
 export default {
@@ -50,11 +115,20 @@ export default {
     DialogBinary,
     DialogShare,
     ItemSection,
+    ClueSection,
     ItemSearch,
     BackToTop
   },
   data: () => ({
-    sections: itemData,
+    capesData: capesData,
+    collectiblesData: collectiblesData,
+    combatData: combatData,
+    constructionData: constructionData,
+    diariesData: diariesData,
+    jewelryData: jewelryData,
+    minigamesData: minigamesData,
+    petsData: petsData,
+    cluesData: cluesData,
     rsn: "",
     editable: !window.location.href.includes("/log")
   }),

@@ -1,0 +1,108 @@
+{
+    "Jewelry": [
+        {
+            "title": "Dragonstone",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 435,
+                    "title": "Amulet Of Glory"
+                },
+                {
+                    "id": 436,
+                    "title": "Combat Bracelet"
+                },
+                {
+                    "id": 437,
+                    "title": "Ring Of Wealth"
+                },
+                {
+                    "id": 438,
+                    "title": "Skills Necklace"
+                }
+            ]
+        },
+        {
+            "title": "Onyx",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 423,
+                    "title": "Amulet Of Fury"
+                },
+                {
+                    "id": 424,
+                    "title": "Berserker Necklace"
+                },
+                {
+                    "id": 425,
+                    "title": "Regen Bracelet"
+                },
+                {
+                    "id": 426,
+                    "title": "Ring Of Stone"
+                }
+            ]
+        },
+        {
+            "title": "Other Jewellry",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 431,
+                    "title": "Amulet Of Eternal Glory"
+                },
+                {
+                    "id": 432,
+                    "title": "Salve Amulet"
+                },
+                {
+                    "id": 433,
+                    "title": "Slayer Ring (eternal)"
+                },
+                {
+                    "id": 434,
+                    "title": "Xeric's Talisman"
+                }
+            ]
+        },
+        {
+            "title": "Zenyte",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 427,
+                    "title": "Amulet Of Torture"
+                },
+                {
+                    "id": 428,
+                    "title": "Necklace Of Anguish"
+                },
+                {
+                    "id": 429,
+                    "title": "Ring Of Suffering"
+                },
+                {
+                    "id": 430,
+                    "title": "Tormented Bracelet"
+                }
+            ]
+        }
+    ]
+}

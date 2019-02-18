@@ -1,0 +1,454 @@
+{
+    "Minigames": [
+        {
+            "title": "Aerial Fishing",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 191,
+                    "title": "Fish Sack"
+                },
+                {
+                    "id": 192,
+                    "title": "Golden Tench"
+                },
+                {
+                    "id": 193,
+                    "title": "Pearl Barbarian Rod"
+                },
+                {
+                    "id": 194,
+                    "title": "Pearl Fishing Rod"
+                },
+                {
+                    "id": 195,
+                    "title": "Pearl Fly Fishing Rod"
+                }
+            ]
+        },
+        {
+            "title": "Barbarian Assault",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 224,
+                    "title": "Fighter Hat"
+                },
+                {
+                    "id": 226,
+                    "title": "Healer Hat"
+                },
+                {
+                    "id": 229,
+                    "title": "Ranger Hat"
+                },
+                {
+                    "id": 231,
+                    "title": "Runner Hat"
+                },
+                {
+                    "id": 225,
+                    "title": "Fighter Torso"
+                },
+                {
+                    "id": 228,
+                    "title": "Penance Skirt"
+                },
+                {
+                    "id": 230,
+                    "title": "Runner Boots"
+                },
+                {
+                    "id": 227,
+                    "title": "Penance Gloves"
+                }
+            ]
+        },
+        {
+            "title": "Castle Wars",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 184,
+                    "title": "Gold Decorative Helm"
+                },
+                {
+                    "id": 183,
+                    "title": "Gold Decorative Body"
+                },
+                {
+                    "id": 185,
+                    "title": "Gold Decorative Legs"
+                },
+                {
+                    "id": 186,
+                    "title": "Gold Decorative Shield"
+                },
+                {
+                    "id": 187,
+                    "title": "Gold Decorative Sword"
+                },
+                {
+                    "id": 188,
+                    "title": "Guthix Halo"
+                },
+                {
+                    "id": 189,
+                    "title": "Saradomin Halo"
+                },
+                {
+                    "id": 190,
+                    "title": "Zamorak Halo"
+                }
+            ]
+        },
+        {
+            "title": "Fishing Trawler",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 153,
+                    "title": "Angler Hat"
+                },
+                {
+                    "id": 154,
+                    "title": "Angler Top"
+                },
+                {
+                    "id": 155,
+                    "title": "Angler Waders"
+                },
+                {
+                    "id": 152,
+                    "title": "Angler Boots"
+                }
+            ]
+        },
+        {
+            "title": "Mage Training Arena",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 160,
+                    "title": "Infinity Hat"
+                },
+                {
+                    "id": 161,
+                    "title": "Infinity Top"
+                },
+                {
+                    "id": 158,
+                    "title": "Infinity Bottoms"
+                },
+                {
+                    "id": 157,
+                    "title": "Infinity Boots"
+                },
+                {
+                    "id": 159,
+                    "title": "Infinity Gloves"
+                },
+                {
+                    "id": 156,
+                    "title": "Bones To Peaches"
+                },
+                {
+                    "id": 162,
+                    "title": "Mage's Book"
+                },
+                {
+                    "id": 163,
+                    "title": "Master Wand"
+                }
+            ]
+        },
+        {
+            "title": "Motherlode Mine",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 175,
+                    "title": "Prospector Helmet"
+                },
+                {
+                    "id": 176,
+                    "title": "Prospector Jacket"
+                },
+                {
+                    "id": 177,
+                    "title": "Prospector Legs"
+                },
+                {
+                    "id": 174,
+                    "title": "Prospector Boots"
+                },
+                {
+                    "id": 172,
+                    "title": "Coal Bag"
+                },
+                {
+                    "id": 173,
+                    "title": "Gem Bag"
+                }
+            ]
+        },
+        {
+            "title": "Pest Control",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 221,
+                    "title": "Void Mage Helm"
+                },
+                {
+                    "id": 222,
+                    "title": "Void Melee Helm"
+                },
+                {
+                    "id": 223,
+                    "title": "Void Ranger Helm"
+                },
+                {
+                    "id": 217,
+                    "title": "Void Knight Gloves"
+                },
+                {
+                    "id": 216,
+                    "title": "Elite Void Top"
+                },
+                {
+                    "id": 215,
+                    "title": "Elite Void Robe"
+                },
+                {
+                    "id": 220,
+                    "title": "Void Knight Top"
+                },
+                {
+                    "id": 219,
+                    "title": "Void Knight Robe"
+                },
+                {
+                    "id": 218,
+                    "title": "Void Knight Mace"
+                }
+            ]
+        },
+        {
+            "title": "Rogue's Den",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v5"
+            ],
+            "items": [
+                {
+                    "id": 180,
+                    "title": "Rogue Mask"
+                },
+                {
+                    "id": 181,
+                    "title": "Rogue Top"
+                },
+                {
+                    "id": 182,
+                    "title": "Rogue Trousers"
+                },
+                {
+                    "id": 178,
+                    "title": "Rogue Boots"
+                },
+                {
+                    "id": 179,
+                    "title": "Rogue Gloves"
+                }
+            ]
+        },
+        {
+            "title": "Rooftop Agility",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v6"
+            ],
+            "items": [
+                {
+                    "id": 167,
+                    "title": "Graceful Hood"
+                },
+                {
+                    "id": 169,
+                    "title": "Graceful Top"
+                },
+                {
+                    "id": 168,
+                    "title": "Graceful Legs"
+                },
+                {
+                    "id": 164,
+                    "title": "Graceful Boots"
+                },
+                {
+                    "id": 165,
+                    "title": "Graceful Cape"
+                },
+                {
+                    "id": 166,
+                    "title": "Graceful Gloves"
+                }
+            ]
+        },
+        {
+            "title": "Temple Trekking",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 204,
+                    "title": "Lumberjack Hat"
+                },
+                {
+                    "id": 206,
+                    "title": "Lumberjack Top"
+                },
+                {
+                    "id": 205,
+                    "title": "Lumberjack Legs"
+                },
+                {
+                    "id": 203,
+                    "title": "Lumberjack Boots"
+                }
+            ]
+        },
+        {
+            "title": "Tithe Farming",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 200,
+                    "title": "Farmer's Strawhat"
+                },
+                {
+                    "id": 199,
+                    "title": "Farmer's Jacket"
+                },
+                {
+                    "id": 198,
+                    "title": "Farmer's Boro Trousers"
+                },
+                {
+                    "id": 197,
+                    "title": "Farmer's Boots"
+                },
+                {
+                    "id": 196,
+                    "title": "Auto Weed"
+                },
+                {
+                    "id": 201,
+                    "title": "Gricoller's Can"
+                },
+                {
+                    "id": 202,
+                    "title": "Seed Box"
+                }
+            ]
+        },
+        {
+            "title": "Volcanic Mine",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 170,
+                    "title": "Ash Covered Tome"
+                },
+                {
+                    "id": 171,
+                    "title": "Heat-proof Vessel - Double Capacity"
+                }
+            ]
+        },
+        {
+            "title": "Warriors' Guild",
+            "cumulative": true,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 209,
+                    "title": "Bronze Defender"
+                },
+                {
+                    "id": 211,
+                    "title": "Iron Defender"
+                },
+                {
+                    "id": 214,
+                    "title": "Steel Defender"
+                },
+                {
+                    "id": 208,
+                    "title": "Black Defender"
+                },
+                {
+                    "id": 212,
+                    "title": "Mithril Defender"
+                },
+                {
+                    "id": 207,
+                    "title": "Adamant Defender"
+                },
+                {
+                    "id": 213,
+                    "title": "Rune Defender"
+                },
+                {
+                    "id": 210,
+                    "title": "Dragon Defender"
+                }
+            ]
+        }
+    ]
+}

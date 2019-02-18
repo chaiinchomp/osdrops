@@ -5,6 +5,7 @@
     <v-layout justify-center>
       <v-flex xs12 md11>
         <div class="section-content">
+          <ClueCard v-if="title === 'Treasure Trails'" :editable="editable" />
           <ItemCard
             v-for="card in cards"
             :key="card.title"
@@ -19,10 +20,12 @@
 
 <script>
 import ItemCard from "./ItemCard.vue";
+import ClueCard from "./ClueCard.vue";
 
 export default {
   components: {
-    ItemCard
+    ItemCard,
+    ClueCard
   },
   props: {
     title: String,

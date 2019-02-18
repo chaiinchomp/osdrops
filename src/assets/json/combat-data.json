@@ -1,0 +1,898 @@
+{
+    "Combat & Bosses": [
+        {
+            "title": "Abyssal Sire",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 322,
+                    "title": "Abyssal Dagger"
+                },
+                {
+                    "id": 323,
+                    "title": "Abyssal Whip"
+                },
+                {
+                    "id": 324,
+                    "title": "Bludgeon Axon"
+                },
+                {
+                    "id": 325,
+                    "title": "Bludgeon Claw"
+                },
+                {
+                    "id": 326,
+                    "title": "Bludgeon Spine"
+                }
+            ]
+        },
+        {
+            "title": "Barrows",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 399,
+                    "title": "Ahrim's Hood"
+                },
+                {
+                    "id": 401,
+                    "title": "Ahrim's Robetop"
+                },
+                {
+                    "id": 400,
+                    "title": "Ahrim's Robeskirt"
+                },
+                {
+                    "id": 402,
+                    "title": "Ahrim's Staff"
+                },
+                {
+                    "id": 404,
+                    "title": "Dharok's Helm"
+                },
+                {
+                    "id": 405,
+                    "title": "Dharok's Platebody"
+                },
+                {
+                    "id": 406,
+                    "title": "Dharok's Platelegs"
+                },
+                {
+                    "id": 403,
+                    "title": "Dharok's Greataxe"
+                },
+                {
+                    "id": 408,
+                    "title": "Guthan's Helm"
+                },
+                {
+                    "id": 409,
+                    "title": "Guthan's Platebody"
+                },
+                {
+                    "id": 407,
+                    "title": "Guthan's Chainskirt"
+                },
+                {
+                    "id": 410,
+                    "title": "Guthan's Warspear"
+                },
+                {
+                    "id": 411,
+                    "title": "Karil's Coif"
+                },
+                {
+                    "id": 414,
+                    "title": "Karil's Leathertop"
+                },
+                {
+                    "id": 413,
+                    "title": "Karil's Leatherskirt"
+                },
+                {
+                    "id": 412,
+                    "title": "Karil's Crossbow"
+                },
+                {
+                    "id": 416,
+                    "title": "Torag's Helm"
+                },
+                {
+                    "id": 417,
+                    "title": "Torag's Platebody"
+                },
+                {
+                    "id": 418,
+                    "title": "Torag's Platelegs"
+                },
+                {
+                    "id": 415,
+                    "title": "Torag's Hammers"
+                },
+                {
+                    "id": 421,
+                    "title": "Verac's Helm"
+                },
+                {
+                    "id": 419,
+                    "title": "Verac's Brassard"
+                },
+                {
+                    "id": 422,
+                    "title": "Verac's Plateskirt"
+                },
+                {
+                    "id": 420,
+                    "title": "Verac's Flail"
+                }
+            ]
+        },
+        {
+            "title": "Bryophyta",
+            "cumulative": false,
+            "grid": [],
+            "items": [
+                {
+                    "id": 395,
+                    "title": "Bryophyta's Essence"
+                }
+            ]
+        },
+        {
+            "title": "Cerberus",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 391,
+                    "title": "Eternal Crystal"
+                },
+                {
+                    "id": 392,
+                    "title": "Pegasian Crystal"
+                },
+                {
+                    "id": 393,
+                    "title": "Primordial Crystal"
+                },
+                {
+                    "id": 394,
+                    "title": "Smouldering Stone"
+                }
+            ]
+        },
+        {
+            "title": "Corporeal Beast",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 317,
+                    "title": "Arcane Sigil"
+                },
+                {
+                    "id": 318,
+                    "title": "Elysian Sigil"
+                },
+                {
+                    "id": 320,
+                    "title": "Spectral Sigil"
+                },
+                {
+                    "id": 321,
+                    "title": "Spirit Shield"
+                },
+                {
+                    "id": 319,
+                    "title": "Holy Elixir"
+                }
+            ]
+        },
+        {
+            "title": "Dagannoth Kings",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 385,
+                    "title": "Archers Ring"
+                },
+                {
+                    "id": 386,
+                    "title": "Berserker Ring"
+                },
+                {
+                    "id": 389,
+                    "title": "Seers Ring"
+                },
+                {
+                    "id": 390,
+                    "title": "Warrior Ring"
+                },
+                {
+                    "id": 387,
+                    "title": "Mud Battlestaff"
+                },
+                {
+                    "id": 388,
+                    "title": "Seercull"
+                }
+            ]
+        },
+        {
+            "title": "Dragons and Wyverns",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 338,
+                    "title": "Dragon Full Helm"
+                },
+                {
+                    "id": 339,
+                    "title": "Dragon Limbs"
+                },
+                {
+                    "id": 340,
+                    "title": "Dragon Metal Lump"
+                },
+                {
+                    "id": 341,
+                    "title": "Dragon Metal Slice"
+                },
+                {
+                    "id": 337,
+                    "title": "Draconic Visage"
+                },
+                {
+                    "id": 342,
+                    "title": "Wyvern Visage"
+                }
+            ]
+        },
+        {
+            "title": "Drake",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 396,
+                    "title": "Drake's Claw"
+                },
+                {
+                    "id": 397,
+                    "title": "Drake's Tooth"
+                }
+            ]
+        },
+        {
+            "title": "God Wars Dungeon",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v4"
+            ],
+            "items": [
+                {
+                    "id": 361,
+                    "title": "Armadyl Helmet"
+                },
+                {
+                    "id": 359,
+                    "title": "Armadyl Chestplate"
+                },
+                {
+                    "id": 358,
+                    "title": "Armadyl Chainskirt"
+                },
+                {
+                    "id": 362,
+                    "title": "Armadyl Hilt"
+                },
+                {
+                    "id": 364,
+                    "title": "Bandos Chestplate"
+                },
+                {
+                    "id": 366,
+                    "title": "Bandos Tassets"
+                },
+                {
+                    "id": 363,
+                    "title": "Bandos Boots"
+                },
+                {
+                    "id": 365,
+                    "title": "Bandos Hilt"
+                },
+                {
+                    "id": 372,
+                    "title": "Saradomin Sword"
+                },
+                {
+                    "id": 370,
+                    "title": "Saradomin's Light"
+                },
+                {
+                    "id": 360,
+                    "title": "Armadyl Crossbow"
+                },
+                {
+                    "id": 371,
+                    "title": "Saradomin Hilt"
+                },
+                {
+                    "id": 376,
+                    "title": "Zamorakian Spear"
+                },
+                {
+                    "id": 373,
+                    "title": "Staff Of The Dead"
+                },
+                {
+                    "id": 374,
+                    "title": "Steam Battlestaff"
+                },
+                {
+                    "id": 375,
+                    "title": "Zamorak Hilt"
+                },
+                {
+                    "id": 367,
+                    "title": "Godsword Shard 1"
+                },
+                {
+                    "id": 368,
+                    "title": "Godsword Shard 2"
+                },
+                {
+                    "id": 369,
+                    "title": "Godsword Shard 3"
+                }
+            ]
+        },
+        {
+            "title": "Gorillas",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 331,
+                    "title": "Ballista Limbs"
+                },
+                {
+                    "id": 332,
+                    "title": "Ballista Spring"
+                },
+                {
+                    "id": 333,
+                    "title": "Heavy Frame"
+                },
+                {
+                    "id": 334,
+                    "title": "Light Frame"
+                },
+                {
+                    "id": 335,
+                    "title": "Monkey Tail"
+                },
+                {
+                    "id": 336,
+                    "title": "Zenyte Shard"
+                }
+            ]
+        },
+        {
+            "title": "Grotesque Guardians",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 343,
+                    "title": "Black Tourmaline Core"
+                },
+                {
+                    "id": 344,
+                    "title": "Granite Gloves"
+                },
+                {
+                    "id": 345,
+                    "title": "Granite Hammer"
+                },
+                {
+                    "id": 346,
+                    "title": "Granite Ring"
+                }
+            ]
+        },
+        {
+            "title": "Hespori",
+            "cumulative": false,
+            "grid": [],
+            "items": [
+                {
+                    "id": 644,
+                    "title": "Bottomless Compost Bucket"
+                }
+            ]
+        },
+        {
+            "title": "Hydra",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h4"
+            ],
+            "items": [
+                {
+                    "id": 642,
+                    "title": "Hydra Leather"
+                },
+                {
+                    "id": 330,
+                    "title": "Hydra Tail"
+                },
+                {
+                    "id": 641,
+                    "title": "Hydra's Claw"
+                },
+                {
+                    "id": 327,
+                    "title": "Hydra's Eye"
+                },
+                {
+                    "id": 328,
+                    "title": "Hydra's Fang"
+                },
+                {
+                    "id": 329,
+                    "title": "Hydra's Heart"
+                }
+            ]
+        },
+        {
+            "title": "Kraken",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 347,
+                    "title": "Kraken Tentacle"
+                },
+                {
+                    "id": 348,
+                    "title": "Trident Of The Seas"
+                }
+            ]
+        },
+        {
+            "title": "Lizard Shaman",
+            "cumulative": false,
+            "grid": [],
+            "items": [
+                {
+                    "id": 398,
+                    "title": "Dragon Warhammer"
+                }
+            ]
+        },
+        {
+            "title": "Obor",
+            "cumulative": false,
+            "grid": [],
+            "items": [
+                {
+                    "id": 377,
+                    "title": "Hill Giant Club"
+                }
+            ]
+        },
+        {
+            "title": "Smoke Devil",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 351,
+                    "title": "Occult Necklace"
+                },
+                {
+                    "id": 352,
+                    "title": "Smoke Battlestaff"
+                }
+            ]
+        },
+        {
+            "title": "Vorkath",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 349,
+                    "title": "Dragonbone Necklace"
+                },
+                {
+                    "id": 350,
+                    "title": "Skeletal Visage"
+                }
+            ]
+        },
+        {
+            "title": "Wintertodt",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 381,
+                    "title": "Pyromancer Hood"
+                },
+                {
+                    "id": 380,
+                    "title": "Pyromancer Garb"
+                },
+                {
+                    "id": 382,
+                    "title": "Pyromancer Robe"
+                },
+                {
+                    "id": 379,
+                    "title": "Pyromancer Boots"
+                },
+                {
+                    "id": 384,
+                    "title": "Warm Gloves"
+                },
+                {
+                    "id": 383,
+                    "title": "Tome Of Fire"
+                },
+                {
+                    "id": 378,
+                    "title": "Bruma Torch"
+                }
+            ]
+        },
+        {
+            "title": "Wyrm",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 239,
+                    "title": "Dragon Harpoon"
+                },
+                {
+                    "id": 241,
+                    "title": "Dragon Sword"
+                }
+            ]
+        },
+        {
+            "title": "Zulrah",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 353,
+                    "title": "Magic Fang"
+                },
+                {
+                    "id": 356,
+                    "title": "Tanzanite Fang"
+                },
+                {
+                    "id": 355,
+                    "title": "Serpentine Visage"
+                },
+                {
+                    "id": 354,
+                    "title": "Magma Mutagen"
+                },
+                {
+                    "id": 357,
+                    "title": "Tanzanite Mutagen"
+                }
+            ]
+        },
+        {
+            "title": "Chambers of Xeric",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h6"
+            ],
+            "items": [
+                {
+                    "id": 232,
+                    "title": "Ancestral Hat"
+                },
+                {
+                    "id": 234,
+                    "title": "Ancestral Robe Top"
+                },
+                {
+                    "id": 233,
+                    "title": "Ancestral Robe Bottom"
+                },
+                {
+                    "id": 243,
+                    "title": "Kodai Insignia"
+                },
+                {
+                    "id": 238,
+                    "title": "Dragon Claws"
+                },
+                {
+                    "id": 240,
+                    "title": "Dragon Hunter Crossbow"
+                },
+                {
+                    "id": 235,
+                    "title": "Arcane Prayer Scroll"
+                },
+                {
+                    "id": 236,
+                    "title": "Dexterous Prayer Scroll"
+                },
+                {
+                    "id": 244,
+                    "title": "Torn Prayer Scroll"
+                },
+                {
+                    "id": 242,
+                    "title": "Elder Maul"
+                },
+                {
+                    "id": 245,
+                    "title": "Twisted Bow"
+                },
+                {
+                    "id": 246,
+                    "title": "Twisted Buckler"
+                },
+                {
+                    "id": 237,
+                    "title": "Dinh's Bulwark"
+                }
+            ]
+        },
+        {
+            "title": "Theatre of Blood",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 250,
+                    "title": "Justiciar Faceguard"
+                },
+                {
+                    "id": 249,
+                    "title": "Justiciar Chestguard"
+                },
+                {
+                    "id": 251,
+                    "title": "Justiciar Legguards"
+                },
+                {
+                    "id": 247,
+                    "title": "Avernic Defender Hilt"
+                },
+                {
+                    "id": 248,
+                    "title": "Ghrazi Rapier"
+                },
+                {
+                    "id": 252,
+                    "title": "Sanguinesti Staff"
+                },
+                {
+                    "id": 253,
+                    "title": "Scythe Of Vitur"
+                }
+            ]
+        },
+        {
+            "title": "Slayer",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h6"
+            ],
+            "items": [
+                {
+                    "id": 149,
+                    "title": "Slayer Helmet"
+                },
+                {
+                    "id": 140,
+                    "title": "Black Mask"
+                },
+                {
+                    "id": 143,
+                    "title": "Eternal Gem"
+                },
+                {
+                    "id": 146,
+                    "title": "Imbued Heart"
+                },
+                {
+                    "id": 142,
+                    "title": "Broad Bolts"
+                },
+                {
+                    "id": 150,
+                    "title": "Slayer Ring"
+                },
+                {
+                    "id": 141,
+                    "title": "Black Slayer Helmet"
+                },
+                {
+                    "id": 144,
+                    "title": "Green Slayer Helmet"
+                },
+                {
+                    "id": 639,
+                    "title": "Hydra Slayer Helmet"
+                },
+                {
+                    "id": 147,
+                    "title": "Purple Slayer Helmet"
+                },
+                {
+                    "id": 148,
+                    "title": "Red Slayer Helmet"
+                },
+                {
+                    "id": 151,
+                    "title": "Turquoise Slayer Helmet"
+                },
+                {
+                    "id": 145,
+                    "title": "Herb Sack"
+                },
+                {
+                    "id": 643,
+                    "title": "Rune Pouch"
+                }
+            ]
+        },
+        {
+            "title": "Wildy Bosses",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 636,
+                    "title": "Ring Of The Gods"
+                },
+                {
+                    "id": 637,
+                    "title": "Treasonous Ring"
+                },
+                {
+                    "id": 638,
+                    "title": "Tyrannical Ring"
+                }
+            ]
+        },
+        {
+            "title": "Wildy Demi-Bosses",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 630,
+                    "title": "Malediction Shard 1"
+                },
+                {
+                    "id": 631,
+                    "title": "Malediction Shard 2"
+                },
+                {
+                    "id": 632,
+                    "title": "Malediction Shard 3"
+                },
+                {
+                    "id": 633,
+                    "title": "Odium Shard 1"
+                },
+                {
+                    "id": 634,
+                    "title": "Odium Shard 2"
+                },
+                {
+                    "id": 635,
+                    "title": "Odium Shard 3"
+                }
+            ]
+        },
+        {
+            "title": "Revenants",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h5"
+            ],
+            "items": [
+                {
+                    "id": 625,
+                    "title": "Amulet Of Avarice"
+                },
+                {
+                    "id": 626,
+                    "title": "Ancient Crystal"
+                },
+                {
+                    "id": 627,
+                    "title": "Craw's Bow"
+                },
+                {
+                    "id": 628,
+                    "title": "Thammaron's Sceptre"
+                },
+                {
+                    "id": 629,
+                    "title": "Viggora's Chainmace"
+                }
+            ]
+        }
+    ]
+}
