@@ -1,40 +1,6 @@
 {
     "Capes": [
         {
-            "title": "God Capes",
-            "cumulative": false,
-            "grid": [
-                "grid-vertical",
-                "grid-v2"
-            ],
-            "items": [
-                {
-                    "id": 91,
-                    "title": "Guthix Cape"
-                },
-                {
-                    "id": 92,
-                    "title": "Imbued Guthix Cape"
-                },
-                {
-                    "id": 95,
-                    "title": "Saradomin Cape"
-                },
-                {
-                    "id": 93,
-                    "title": "Imbued Saradomin Cape"
-                },
-                {
-                    "id": 96,
-                    "title": "Zamorak Cape"
-                },
-                {
-                    "id": 94,
-                    "title": "Imbued Zamorak Cape"
-                }
-            ]
-        },
-        {
             "title": "Max Capes",
             "cumulative": false,
             "grid": [

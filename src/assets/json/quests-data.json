@@ -1,0 +1,288 @@
+{
+    "Quests": [
+        {
+            "title": "Ava's Devices",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 1001,
+                    "title": "Ava's Attractor"
+                },
+                {
+                    "id": 1002,
+                    "title": "Ava's Accumulator"
+                },
+                {
+                    "id": 1003,
+                    "title": "Ava's Assembler"
+                }
+            ]
+        },
+        {
+            "title": "Culinaromancer's Gloves",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v2"
+            ],
+            "items": [
+                {
+                    "id": 1004,
+                    "title": "Hardleather Gloves"
+                },
+                {
+                    "id": 1005,
+                    "title": "Bronze Gloves"
+                },
+                {
+                    "id": 1006,
+                    "title": "Iron Gloves"
+                },
+                {
+                    "id": 1007,
+                    "title": "Steel Gloves"
+                },
+                {
+                    "id": 1008,
+                    "title": "Black Gloves"
+                },
+                {
+                    "id": 1009,
+                    "title": "Mithril Gloves"
+                },
+                {
+                    "id": 1010,
+                    "title": "Adamant Gloves"
+                },
+                {
+                    "id": 1011,
+                    "title": "Rune Gloves"
+                },
+                {
+                    "id": 1012,
+                    "title": "Dragon Gloves"
+                },
+                {
+                    "id": 1013,
+                    "title": "Barrows Gloves"
+                }
+            ]
+        },
+        {
+            "title": "Crystal Equipment",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h3"
+            ],
+            "items": [
+                {
+                    "id": 1014,
+                    "title": "Crystal Shield"
+                },
+                {
+                    "id": 1015,
+                    "title": "Crystal Bow"
+                },
+                {
+                    "id": 1016,
+                    "title": "Crystal Halberd"
+                }
+            ]
+        },
+        {
+            "title": "God Capes",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v2"
+            ],
+            "items": [
+                {
+                    "id": 91,
+                    "title": "Guthix Cape"
+                },
+                {
+                    "id": 92,
+                    "title": "Imbued Guthix Cape"
+                },
+                {
+                    "id": 95,
+                    "title": "Saradomin Cape"
+                },
+                {
+                    "id": 93,
+                    "title": "Imbued Saradomin Cape"
+                },
+                {
+                    "id": 96,
+                    "title": "Zamorak Cape"
+                },
+                {
+                    "id": 94,
+                    "title": "Imbued Zamorak Cape"
+                }
+            ]
+        },
+        {
+            "title": "Chompy Hats",
+            "cumulative": true,
+            "grid": [
+                "grid-horizontal",
+                "grid-h6"
+            ],
+            "items": [
+                {
+                    "id": 276,
+                    "title": "Ogre Bowman Hat"
+                },
+                {
+                    "id": 268,
+                    "title": "Bowman Hat"
+                },
+                {
+                    "id": 283,
+                    "title": "Ogre Yeoman Hat"
+                },
+                {
+                    "id": 285,
+                    "title": "Yeoman Hat"
+                },
+                {
+                    "id": 281,
+                    "title": "Ogre Marksman Hat"
+                },
+                {
+                    "id": 275,
+                    "title": "Marksman Hat"
+                },
+                {
+                    "id": 282,
+                    "title": "Ogre Woodsman Hat"
+                },
+                {
+                    "id": 284,
+                    "title": "Woodsman Hat"
+                },
+                {
+                    "id": 280,
+                    "title": "Ogre Forester Hat"
+                },
+                {
+                    "id": 274,
+                    "title": "Forester Hat"
+                },
+                {
+                    "id": 277,
+                    "title": "Ogre Bowmaster Hat"
+                },
+                {
+                    "id": 269,
+                    "title": "Bowmaster Hat"
+                },
+                {
+                    "id": 279,
+                    "title": "Ogre Expert Hat"
+                },
+                {
+                    "id": 272,
+                    "title": "Expert Hat"
+                },
+                {
+                    "id": 278,
+                    "title": "Ogre Dragon Archer Hat"
+                },
+                {
+                    "id": 270,
+                    "title": "Dragon Archer Hat"
+                },
+                {
+                    "id": 273,
+                    "title": "Expert Ogre Dragon Archer Hat"
+                },
+                {
+                    "id": 271,
+                    "title": "Expert Dragon Archer Hat"
+                }
+            ]
+        },
+        {
+            "title": "Mogre Outfit",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 1017,
+                    "title": "Mudskipper Hat"
+                },
+                {
+                    "id": 1018,
+                    "title": "Flippers"
+                }
+            ]
+        },
+        {
+            "title": "Crab Armor",
+            "cumulative": false,
+            "grid": [
+                "grid-horizontal",
+                "grid-h2"
+            ],
+            "items": [
+                {
+                    "id": 1019,
+                    "title": "Crab Helmet"
+                },
+                {
+                    "id": 1020,
+                    "title": "Crab Claw"
+                }
+            ]
+        },
+        {
+            "title": "Creature Creation",
+            "cumulative": false,
+            "grid": [
+                "grid-vertical",
+                "grid-v2"
+            ],
+            "items": [
+                {
+                    "id": 1021,
+                    "title": "Plain Satchel"
+                },
+                {
+                    "id": 1022,
+                    "title": "Black Satchel"
+                },
+                {
+                    "id": 1023,
+                    "title": "Gold Satchel"
+                },
+                {
+                    "id": 1024,
+                    "title": "Green Satchel"
+                },
+                {
+                    "id": 1025,
+                    "title": "Red Satchel"
+                },
+                {
+                    "id": 1026,
+                    "title": "Rune Satchel"
+                },
+                {
+                    "id": 1027,
+                    "title": "Tea Flask"
+                }
+            ]
+        }
+    ]
+}

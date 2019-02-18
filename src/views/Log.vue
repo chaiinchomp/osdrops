@@ -13,6 +13,13 @@
         :key="title"
       />
       <ItemSection
+        v-for="(section, title) in questsData"
+        :title="title"
+        :cards="section"
+        :editable="editable"
+        :key="title"
+      />
+      <ItemSection
         v-for="(section, title) in combatData"
         :title="title"
         :cards="section"
@@ -107,6 +114,7 @@ import diariesData from "@/assets/json/diaries-data.json";
 import jewelryData from "@/assets/json/jewelry-data.json";
 import minigamesData from "@/assets/json/minigames-data.json";
 import petsData from "@/assets/json/pets-data.json";
+import questsData from "@/assets/json/quests-data.json";
 import cluesData from "@/assets/json/clues-data.json";
 import { mapActions } from "vuex";
 
@@ -129,6 +137,7 @@ export default {
     minigamesData: minigamesData,
     petsData: petsData,
     cluesData: cluesData,
+    questsData:questsData,
     rsn: "",
     editable: !window.location.href.includes("/log")
   }),
