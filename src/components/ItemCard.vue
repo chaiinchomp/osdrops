@@ -1,5 +1,5 @@
 <template>
-  <v-card v-show="!empty">
+  <v-card v-show="!empty" v-bind:style="bgcolor">
     <div class="card-header">
       <span class="subheading main-color--text--darker">{{ card.title }}</span>
       <v-progress-circular :value="step" :rotate="270" color="main-color">
@@ -99,6 +99,9 @@ export default {
             .includes(this.$store.state.search.toLowerCase())
         );
       }
+    },
+    bgcolor: function() {
+      return this.step === 100 ? "background-color:#9ae59a" : "background-color:#ffffff";
     },
     empty: function() {
       return this.filteredItems.length === 0;
