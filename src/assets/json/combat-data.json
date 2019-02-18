@@ -557,44 +557,6 @@
             ]
         },
         {
-            "title": "Wintertodt",
-            "cumulative": false,
-            "grid": [
-                "grid-horizontal",
-                "grid-h5"
-            ],
-            "items": [
-                {
-                    "id": 381,
-                    "title": "Pyromancer Hood"
-                },
-                {
-                    "id": 380,
-                    "title": "Pyromancer Garb"
-                },
-                {
-                    "id": 382,
-                    "title": "Pyromancer Robe"
-                },
-                {
-                    "id": 379,
-                    "title": "Pyromancer Boots"
-                },
-                {
-                    "id": 384,
-                    "title": "Warm Gloves"
-                },
-                {
-                    "id": 383,
-                    "title": "Tome Of Fire"
-                },
-                {
-                    "id": 378,
-                    "title": "Bruma Torch"
-                }
-            ]
-        },
-        {
             "title": "Wyrm",
             "cumulative": false,
             "grid": [
