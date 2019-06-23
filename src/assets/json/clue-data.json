@@ -1,31 +1,31 @@
 [
-    {
-      "difficulty": "Beginner"
-    },
-    {
-      "difficulty": "Easy",
-      "threshold": 500,
-      "title": "Large Spade"
-    },
-    {
-      "difficulty": "Medium",
-      "threshold": 400,
-      "title": "Clueless Scroll"
-    },
-    {
-      "difficulty": "Hard",
-      "threshold": 300,
-      "title": "Uri Transform Emote",
-      "src": "Uri_Transform_emote.png"
-    },
-    {
-      "difficulty": "Elite",
-      "threshold": 200,
-      "title": "Heavy Casket"
-    },
-    {
-      "difficulty": "Master",
-      "threshold": 100,
-      "title": "Scroll Sack"
-    }
+  {
+    "difficulty": "Beginner"
+  },
+  {
+    "difficulty": "Easy",
+    "threshold": 500,
+    "title": "Large Spade"
+  },
+  {
+    "difficulty": "Medium",
+    "threshold": 400,
+    "title": "Clueless Scroll"
+  },
+  {
+    "difficulty": "Hard",
+    "threshold": 300,
+    "title": "Uri Transform Emote",
+    "src": "Uri_Transform_emote.png"
+  },
+  {
+    "difficulty": "Elite",
+    "threshold": 200,
+    "title": "Heavy Casket"
+  },
+  {
+    "difficulty": "Master",
+    "threshold": 100,
+    "title": "Scroll Sack"
+  }
 ]

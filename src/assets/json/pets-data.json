@@ -1,202 +1,202 @@
 {
-    "Pets": [
+  "Pets": [
+    {
+      "title": "Boss Pets",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
         {
-            "title": "Boss Pets",
-            "cumulative": false,
-            "grid": [
-                "grid-horizontal",
-                "grid-h6"
-            ],
-            "items": [
-                {
-                    "id": 57,
-                    "title": "Abyssal Orphan"
-                },
-                {
-                    "id": 58,
-                    "title": "Baby Mole"
-                },
-                {
-                    "id": 59,
-                    "title": "Callisto Cub"
-                },
-                {
-                    "id": 60,
-                    "title": "Hellpuppy"
-                },
-                {
-                    "id": 61,
-                    "title": "Ikkle Hydra"
-                },
-                {
-                    "id": 62,
-                    "title": "Jal-nib-rek"
-                },
-                {
-                    "id": 63,
-                    "title": "Kalphite Princess"
-                },
-                {
-                    "id": 64,
-                    "title": "Lil' Zik"
-                },
-                {
-                    "id": 65,
-                    "title": "Noon"
-                },
-                {
-                    "id": 66,
-                    "title": "Olmlet"
-                },
-                {
-                    "id": 67,
-                    "title": "Pet Chaos Elemental"
-                },
-                {
-                    "id": 68,
-                    "title": "Pet Dagannoth Prime"
-                },
-                {
-                    "id": 69,
-                    "title": "Pet Dagannoth Rex"
-                },
-                {
-                    "id": 70,
-                    "title": "Pet Dagannoth Supreme"
-                },
-                {
-                    "id": 71,
-                    "title": "Pet Dark Core"
-                },
-                {
-                    "id": 72,
-                    "title": "Pet General Graardor"
-                },
-                {
-                    "id": 73,
-                    "title": "Pet K'ril Tsutsaroth"
-                },
-                {
-                    "id": 74,
-                    "title": "Pet Kraken"
-                },
-                {
-                    "id": 75,
-                    "title": "Pet Kree'arra"
-                },
-                {
-                    "id": 76,
-                    "title": "Pet Smoke Devil"
-                },
-                {
-                    "id": 77,
-                    "title": "Pet Snakeling"
-                },
-                {
-                    "id": 78,
-                    "title": "Pet Zilyana"
-                },
-                {
-                    "id": 79,
-                    "title": "Prince Black Dragon"
-                },
-                {
-                    "id": 80,
-                    "title": "Scorpia's Offspring"
-                },
-                {
-                    "id": 81,
-                    "title": "Skotos"
-                },
-                {
-                    "id": 82,
-                    "title": "Tzrek-jad"
-                },
-                {
-                    "id": 83,
-                    "title": "Venenatis Spiderling"
-                },
-                {
-                    "id": 84,
-                    "title": "Vet'ion Jr"
-                },
-                {
-                    "id": 85,
-                    "title": "Vorki"
-                }
-            ]
+          "id": 57,
+          "title": "Abyssal Orphan"
         },
         {
-            "title": "Other Pets",
-            "cumulative": false,
-            "grid": [
-                "grid-horizontal",
-                "grid-h5"
-            ],
-            "items": [
-                {
-                    "id": 86,
-                    "title": "Bloodhound"
-                },
-                {
-                    "id": 87,
-                    "title": "Chompy Chick"
-                },
-                {
-                    "id": 88,
-                    "title": "Herbi"
-                },
-                {
-                    "id": 89,
-                    "title": "Pet Penance Queen"
-                },
-                {
-                    "id": 90,
-                    "title": "Phoenix"
-                }
-            ]
+          "id": 58,
+          "title": "Baby Mole"
         },
         {
-            "title": "Skilling Pets",
-            "cumulative": false,
-            "grid": [
-                "grid-horizontal",
-                "grid-h6"
-            ],
-            "items": [
-                {
-                    "id": 49,
-                    "title": "Baby Chinchompa"
-                },
-                {
-                    "id": 50,
-                    "title": "Beaver"
-                },
-                {
-                    "id": 51,
-                    "title": "Giant Squirrel"
-                },
-                {
-                    "id": 52,
-                    "title": "Heron"
-                },
-                {
-                    "id": 53,
-                    "title": "Rift Guardian"
-                },
-                {
-                    "id": 54,
-                    "title": "Rock Golem"
-                },
-                {
-                    "id": 55,
-                    "title": "Rocky"
-                },
-                {
-                    "id": 56,
-                    "title": "Tangleroot"
-                }
-            ]
+          "id": 59,
+          "title": "Callisto Cub"
+        },
+        {
+          "id": 60,
+          "title": "Hellpuppy"
+        },
+        {
+          "id": 61,
+          "title": "Ikkle Hydra"
+        },
+        {
+          "id": 62,
+          "title": "Jal-nib-rek"
+        },
+        {
+          "id": 63,
+          "title": "Kalphite Princess"
+        },
+        {
+          "id": 64,
+          "title": "Lil' Zik"
+        },
+        {
+          "id": 65,
+          "title": "Noon"
+        },
+        {
+          "id": 66,
+          "title": "Olmlet"
+        },
+        {
+          "id": 67,
+          "title": "Pet Chaos Elemental"
+        },
+        {
+          "id": 68,
+          "title": "Pet Dagannoth Prime"
+        },
+        {
+          "id": 69,
+          "title": "Pet Dagannoth Rex"
+        },
+        {
+          "id": 70,
+          "title": "Pet Dagannoth Supreme"
+        },
+        {
+          "id": 71,
+          "title": "Pet Dark Core"
+        },
+        {
+          "id": 72,
+          "title": "Pet General Graardor"
+        },
+        {
+          "id": 73,
+          "title": "Pet K'ril Tsutsaroth"
+        },
+        {
+          "id": 74,
+          "title": "Pet Kraken"
+        },
+        {
+          "id": 75,
+          "title": "Pet Kree'arra"
+        },
+        {
+          "id": 76,
+          "title": "Pet Smoke Devil"
+        },
+        {
+          "id": 77,
+          "title": "Pet Snakeling"
+        },
+        {
+          "id": 78,
+          "title": "Pet Zilyana"
+        },
+        {
+          "id": 79,
+          "title": "Prince Black Dragon"
+        },
+        {
+          "id": 80,
+          "title": "Scorpia's Offspring"
+        },
+        {
+          "id": 81,
+          "title": "Skotos"
+        },
+        {
+          "id": 82,
+          "title": "Tzrek-jad"
+        },
+        {
+          "id": 83,
+          "title": "Venenatis Spiderling"
+        },
+        {
+          "id": 84,
+          "title": "Vet'ion Jr"
+        },
+        {
+          "id": 85,
+          "title": "Vorki"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Other Pets",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 86,
+          "title": "Bloodhound"
+        },
+        {
+          "id": 87,
+          "title": "Chompy Chick"
+        },
+        {
+          "id": 88,
+          "title": "Herbi"
+        },
+        {
+          "id": 89,
+          "title": "Pet Penance Queen"
+        },
+        {
+          "id": 90,
+          "title": "Phoenix"
+        }
+      ]
+    },
+    {
+      "title": "Skilling Pets",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 49,
+          "title": "Baby Chinchompa"
+        },
+        {
+          "id": 50,
+          "title": "Beaver"
+        },
+        {
+          "id": 51,
+          "title": "Giant Squirrel"
+        },
+        {
+          "id": 52,
+          "title": "Heron"
+        },
+        {
+          "id": 53,
+          "title": "Rift Guardian"
+        },
+        {
+          "id": 54,
+          "title": "Rock Golem"
+        },
+        {
+          "id": 55,
+          "title": "Rocky"
+        },
+        {
+          "id": 56,
+          "title": "Tangleroot"
+        }
+      ]
+    }
+  ]
 }
