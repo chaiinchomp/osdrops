@@ -3,7 +3,8 @@
     <v-layout align-center justify-center>
       <v-flex xs5>
         <img
-          :class="['clue-icon', { unlocked: count >= threshold }]"
+          v-if="clue.title"
+          :class="['item', { unlocked }]"
           :src="getSrc()"
           :alt="title"
           :title="title"
@@ -11,14 +12,14 @@
       </v-flex>
       <v-flex xs7>
         <v-text-field
+          :hide-details="true"
           class="clue-input"
-          color="main-color"
+          color="primary"
           type="number"
           min="0"
-          v-model="count"
           :label="difficulty"
           :readonly="!editable"
-          :hide-details="true"
+          v-model="count"
         />
       </v-flex>
     </v-layout>
@@ -35,8 +36,7 @@ export default {
     return {
       difficulty: this.clue.difficulty,
       threshold: this.clue.threshold,
-      title: this.clue.title,
-      src: this.clue.title.toLowerCase().replace(/ /g, "_") + ".png"
+      title: this.clue.title
     };
   },
   methods: {
@@ -47,9 +47,10 @@ export default {
   computed: {
     count: {
       get() {
-        return this.editable
-          ? this.$store.getters.getClueCount(this.difficulty)
-          : this.$store.getters.getTempClueCount(this.difficulty);
+        return this.$store.getters.getClueCount({
+          difficulty: this.difficulty,
+          editable: this.editable
+        });
       },
       set(value) {
         this.$store.dispatch("setClues", {
@@ -57,21 +58,13 @@ export default {
           count: value
         });
       }
+    },
+    src: function() {
+      return this.title.toLowerCase().replace(/ /g, "_") + ".png";
+    },
+    unlocked: function() {
+      return this.count >= this.threshold;
     }
   }
 };
 </script>
-
-<style scoped>
-.clue-icon {
-  margin: 0 0.5em;
-  opacity: 0.4;
-}
-.clue-input {
-  width: 4em;
-  margin: 1em 1em 1em 0;
-}
-.unlocked {
-  opacity: 1;
-}
-</style>

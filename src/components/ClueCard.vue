@@ -1,7 +1,7 @@
 <template>
   <v-card v-show="search">
-    <div class="card-header">
-      <span class="main-color--text--darker subheading">{{ title }}</span>
+    <div class="text-xs-left">
+      <span class="subheading">{{ title }}</span>
     </div>
     <v-layout row wrap>
       <ClueItem
@@ -10,12 +10,13 @@
         :clue="clue"
         :editable="editable"
       />
-      <v-flex xs6>
+      <v-flex xs12>
         <v-layout align-center justify-center>
-          <v-flex xs7 offset-xs5>
+          <v-flex>
             <v-text-field
+              :hide-details="true"
               class="clue-input"
-              color="main-color"
+              color="primary"
               label="Total"
               v-model="total"
               readonly
@@ -47,17 +48,17 @@ export default {
       return this.$store.state.search.length === 0;
     },
     total: function() {
-      return this.editable
-        ? this.$store.getters.getTotalClueCount
-        : this.$store.getters.getTempTotalClueCount;
+      return this.$store.getters.getTotalClueCount(this.editable);
     }
   }
 };
 </script>
 
-<style scoped>
+<style>
 .clue-input {
   width: 4em;
-  margin: 1em 1em 1em 0;
+  margin: 0.75em 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>

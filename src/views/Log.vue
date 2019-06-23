@@ -2,79 +2,84 @@
   <div class="text-xs-center">
     <v-container>
       <template v-if="!editable && rsn !== ''">
-        <h2 class="main-color--text--darker">{{ rsn }} Collection Log</h2>
+        <h2 class="primary--text">{{ rsn }} Collection Log</h2>
       </template>
       <ItemSearch />
-      <ItemSection
-        v-for="(section, title) in diariesData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in questsData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in combatData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in capesData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in collectiblesData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in constructionData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in jewelry"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in minigamesData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ItemSection
-        v-for="(section, title) in petsData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
-      <ClueSection
-        v-for="(section, title) in cluesData"
-        :title="title"
-        :cards="section"
-        :editable="editable"
-        :key="title"
-      />
+      <template v-if="compact">
+        <ItemSection :cards="cards" :editable="editable" :compact="compact" />
+      </template>
+      <template v-else>
+        <ItemSection
+                v-for="(section, title) in diariesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in questsData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in combatData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in capesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in collectiblesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in constructionData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in jewelry"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in minigamesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in petsData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ClueSection
+                v-for="(section, title) in cluesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+      </template>
       <template v-if="editable">
         <DialogBinary
           :cardText="'Remove all items?'"
@@ -139,7 +144,8 @@ export default {
     cluesData: cluesData,
     questsData:questsData,
     rsn: "",
-    editable: !window.location.href.includes("/log")
+    editable: !window.location.href.includes("/log"),
+    cards: []
   }),
   methods: {
     ...mapActions(["clear", "addItem", "setSessionData", "replaceLog"]),
@@ -150,7 +156,23 @@ export default {
       this.replaceLog();
     }
   },
+  computed: {
+    compact: function() {
+      return this.$store.getters.isCompactTheme;
+    }
+  },
   created: function() {
+    this.dataSets = [
+        capesData, collectiblesData, combatData,
+        constructionData, diariesData, jewelryData,
+        minigamesData, petsData, cluesData,
+        questsData
+    ]
+
+    this.cards = []
+    for (const itemData of this.dataSets) {
+        this.cards.concat.apply([], Object.values(itemData));
+    }
     if (!this.editable) {
       if (this.$route.query.items && this.$route.query.clues) {
         let tempItems = {};
@@ -161,7 +183,7 @@ export default {
 
         const tempClues = {};
         const paramClues = this.$route.query.clues.split(".");
-        const diff = ["Easy", "Medium", "Hard", "Elite", "Master"];
+        const diff = ["Beginner", "Easy", "Medium", "Hard", "Elite", "Master"];
         diff.forEach((key, i) => {
           tempClues[key] = paramClues[i];
         });
@@ -185,3 +207,12 @@ export default {
   }
 };
 </script>
+
+<style>
+.item {
+  opacity: 0.3;
+}
+.unlocked {
+  opacity: 1;
+}
+</style>
