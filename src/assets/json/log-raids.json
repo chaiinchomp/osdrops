@@ -1,0 +1,168 @@
+{
+  "Raids": [
+    {
+      "title": "Chambers of Xeric",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 190,
+          "title": "Xeric's guard"
+        },
+        {
+          "id": 191,
+          "title": "Xeric's warrior"
+        },
+        {
+          "id": 192,
+          "title": "Xeric's sentinel"
+        },
+        {
+          "id": 193,
+          "title": "Xeric's general"
+        },
+        {
+          "id": 194,
+          "title": "Xeric's champion"
+        },
+        {
+          "id": 179,
+          "title": "Ancestral hat"
+        },
+        {
+          "id": 180,
+          "title": "Ancestral robe top"
+        },
+        {
+          "id": 181,
+          "title": "Ancestral robe bottom"
+        },
+        {
+          "id": 177,
+          "title": "Kodai insignia"
+        },
+        {
+          "id": 176,
+          "title": "Elder maul"
+        },
+        {
+          "id": 175,
+          "title": "Twisted bow"
+        },
+        {
+          "id": 185,
+          "title": "Dragon hunter crossbow"
+        },
+        {
+          "id": 178,
+          "title": "Dragon claws"
+        },
+        {
+          "id": 186,
+          "title": "Twisted buckler"
+        },
+        {
+          "id": 182,
+          "title": "Dinh's bulwark"
+        },
+        {
+          "id": 187,
+          "title": "Torn prayer scroll"
+        },
+        {
+          "id": 184,
+          "title": "Arcane prayer scroll"
+        },
+        {
+          "id": 183,
+          "title": "Dexterous prayer scroll"
+        },
+        {
+          "id": 188,
+          "title": "Dark relic"
+        },
+        {
+          "id": 189,
+          "title": "Onyx"
+        },
+        {
+          "id": 174,
+          "title": "Metamorphic dust"
+        },
+        {
+          "id": 173,
+          "title": "Olmlet"
+        }
+      ]
+    },
+    {
+      "title": "Theatre of Blood",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 204,
+          "title": "Sinhaza shroud tier 1"
+        },
+        {
+          "id": 205,
+          "title": "Sinhaza shroud tier 2"
+        },
+        {
+          "id": 206,
+          "title": "Sinhaza shroud tier 3"
+        },
+        {
+          "id": 207,
+          "title": "Sinhaza shroud tier 4"
+        },
+        {
+          "id": 208,
+          "title": "Sinhaza shroud tier 5"
+        },
+        {
+          "id": 199,
+          "title": "Justiciar faceguard"
+        },
+        {
+          "id": 200,
+          "title": "Justiciar chestguard"
+        },
+        {
+          "id": 201,
+          "title": "Justiciar legguards"
+        },
+        {
+          "id": 197,
+          "title": "Ghrazi rapier"
+        },
+        {
+          "id": 202,
+          "title": "Avernic defender hilt"
+        },
+        {
+          "id": 198,
+          "title": "Sanguinesti staff"
+        },
+        {
+          "id": 196,
+          "title": "Scythe of vitur"
+        },
+        {
+          "id": 195,
+          "title": "Lil' zik"
+        },
+        {
+          "id": 203,
+          "title": "Vial of blood"
+        }
+      ]
+    }
+  ]
+}

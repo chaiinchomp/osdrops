@@ -1,0 +1,1100 @@
+{
+  "Bosses": [
+    {
+      "title": "Abyssal Sire",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 5,
+          "title": "Bludgeon claw"
+        },
+        {
+          "id": 4,
+          "title": "Bludgeon spine"
+        },
+        {
+          "id": 6,
+          "title": "Bludgeon axon"
+        },
+        {
+          "id": 9,
+          "title": "Abyssal whip"
+        },
+        {
+          "id": 8,
+          "title": "Abyssal dagger"
+        },
+        {
+          "id": 1,
+          "title": "Abyssal orphan"
+        },
+        {
+          "id": 2,
+          "title": "Unsired"
+        },
+        {
+          "id": 3,
+          "title": "Abyssal head"
+        },
+        {
+          "id": 7,
+          "title": "Jar of miasma"
+        }
+      ]
+    },
+    {
+      "title": "Alchemical Hydra",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 10,
+          "title": "Ikkle hydra"
+        },
+        {
+          "id": 20,
+          "title": "Alchemical hydra heads"
+        },
+        {
+          "id": 15,
+          "title": "Hydra's eye"
+        },
+        {
+          "id": 11,
+          "title": "Hydra's claw"
+        },
+        {
+          "id": 12,
+          "title": "Hydra tail"
+        },
+        {
+          "id": 14,
+          "title": "Hydra's fang"
+        },
+        {
+          "id": 13,
+          "title": "Hydra leather"
+        },
+        {
+          "id": 16,
+          "title": "Hydra's heart"
+        },
+        {
+          "id": 19,
+          "title": "Jar of chemicals"
+        },
+        {
+          "id": 17,
+          "title": "Dragon knife"
+        },
+        {
+          "id": 18,
+          "title": "Dragon thrownaxe"
+        }
+      ]
+    },
+    {
+      "title": "Barrows",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 29,
+          "title": "Dharok's helm"
+        },
+        {
+          "id": 37,
+          "title": "Torag's helm"
+        },
+        {
+          "id": 33,
+          "title": "Guthan's helm"
+        },
+        {
+          "id": 41,
+          "title": "Verac's helm"
+        },
+        {
+          "id": 21,
+          "title": "Karil's coif"
+        },
+        {
+          "id": 25,
+          "title": "Ahrim's hood"
+        },
+        {
+          "id": 30,
+          "title": "Dharok's platebody"
+        },
+        {
+          "id": 38,
+          "title": "Torag's platebody"
+        },
+        {
+          "id": 34,
+          "title": "Guthan's platebody"
+        },
+        {
+          "id": 42,
+          "title": "Verac's brassard"
+        },
+        {
+          "id": 22,
+          "title": "Karil's leathertop"
+        },
+        {
+          "id": 26,
+          "title": "Ahrim's robetop"
+        },
+        {
+          "id": 31,
+          "title": "Dharok's platelegs"
+        },
+        {
+          "id": 39,
+          "title": "Torag's platelegs"
+        },
+        {
+          "id": 35,
+          "title": "Guthan's chainskirt"
+        },
+        {
+          "id": 43,
+          "title": "Verac's plateskirt"
+        },
+        {
+          "id": 23,
+          "title": "Karil's leatherskirt"
+        },
+        {
+          "id": 27,
+          "title": "Ahrim's robeskirt"
+        },
+        {
+          "id": 32,
+          "title": "Dharok's greataxe"
+        },
+        {
+          "id": 40,
+          "title": "Torag's hammers"
+        },
+        {
+          "id": 36,
+          "title": "Guthan's warspear"
+        },
+        {
+          "id": 44,
+          "title": "Verac's flail"
+        },
+        {
+          "id": 24,
+          "title": "Karil's crossbow"
+        },
+        {
+          "id": 28,
+          "title": "Ahrim's staff"
+        },
+        {
+          "id": 45,
+          "title": "Bolt rack"
+        }
+      ]
+    },
+    {
+      "title": "Bryophyta",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h1"
+      ],
+      "items": [
+        {
+          "id": 46,
+          "title": "Bryophyta's essence"
+        }
+      ]
+    },
+    {
+      "title": "Callisto",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 47,
+          "title": "Callisto cub"
+        },
+        {
+          "id": 48,
+          "title": "Tyrannical ring"
+        },
+        {
+          "id": 49,
+          "title": "Dragon pickaxe"
+        },
+        {
+          "id": 50,
+          "title": "Dragon 2h sword"
+        }
+      ]
+    },
+    {
+      "title": "Cerberus",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 54,
+          "title": "Primordial crystal"
+        },
+        {
+          "id": 53,
+          "title": "Pegasian crystal"
+        },
+        {
+          "id": 52,
+          "title": "Eternal crystal"
+        },
+        {
+          "id": 56,
+          "title": "Smouldering stone"
+        },
+        {
+          "id": 51,
+          "title": "Hellpuppy"
+        },
+        {
+          "id": 55,
+          "title": "Jar of souls"
+        },
+        {
+          "id": 57,
+          "title": "Key master teleport"
+        }
+      ]
+    },
+    {
+      "title": "Chaos Elemental",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 49,
+          "title": "Dragon pickaxe"
+        },
+        {
+          "id": 50,
+          "title": "Dragon 2h sword"
+        },
+        {
+          "id": 58,
+          "title": "Pet chaos elemental"
+        }
+      ]
+    },
+    {
+      "title": "Chaos Fanatic",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 59,
+          "title": "Odium shard 1"
+        },
+        {
+          "id": 60,
+          "title": "Malediction shard 1"
+        },
+        {
+          "id": 58,
+          "title": "Pet chaos elemental"
+        }
+      ]
+    },
+    {
+      "title": "Commander Zilyana",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 66,
+          "title": "Godsword shard 1"
+        },
+        {
+          "id": 67,
+          "title": "Godsword shard 2"
+        },
+        {
+          "id": 68,
+          "title": "Godsword shard 3"
+        },
+        {
+          "id": 63,
+          "title": "Saradomin hilt"
+        },
+        {
+          "id": 64,
+          "title": "Saradomin sword"
+        },
+        {
+          "id": 62,
+          "title": "Armadyl crossbow"
+        },
+        {
+          "id": 65,
+          "title": "Saradomin's light"
+        },
+        {
+          "id": 61,
+          "title": "Pet zilyana"
+        }
+      ]
+    },
+    {
+      "title": "Corporeal Beast",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 70,
+          "title": "Elysian sigil"
+        },
+        {
+          "id": 72,
+          "title": "Arcane sigil"
+        },
+        {
+          "id": 71,
+          "title": "Spectral sigil"
+        },
+        {
+          "id": 74,
+          "title": "Spirit shield"
+        },
+        {
+          "id": 73,
+          "title": "Holy elixir"
+        },
+        {
+          "id": 69,
+          "title": "Pet dark core"
+        }
+      ]
+    },
+    {
+      "title": "Crazy archaeologist",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 76,
+          "title": "Malediction shard 2"
+        },
+        {
+          "id": 75,
+          "title": "Odium shard 2"
+        },
+        {
+          "id": 77,
+          "title": "Fedora"
+        }
+      ]
+    },
+    {
+      "title": "Dagannoth Kings",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 81,
+          "title": "Berserker ring"
+        },
+        {
+          "id": 82,
+          "title": "Archers ring"
+        },
+        {
+          "id": 84,
+          "title": "Warrior ring"
+        },
+        {
+          "id": 83,
+          "title": "Seers ring"
+        },
+        {
+          "id": 85,
+          "title": "Dragon axe"
+        },
+        {
+          "id": 79,
+          "title": "Pet dagannoth supreme"
+        },
+        {
+          "id": 80,
+          "title": "Pet dagannoth rex"
+        },
+        {
+          "id": 78,
+          "title": "Pet dagannoth prime"
+        },
+        {
+          "id": 86,
+          "title": "Seercull"
+        },
+        {
+          "id": 87,
+          "title": "Mud battlestaff"
+        }
+      ]
+    },
+    {
+      "title": "The Fight Caves",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 89,
+          "title": "Fire cape"
+        },
+        {
+          "id": 88,
+          "title": "Tzrek-jad"
+        }
+      ]
+    },
+    {
+      "title": "General Graardor",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 66,
+          "title": "Godsword shard 1"
+        },
+        {
+          "id": 67,
+          "title": "Godsword shard 2"
+        },
+        {
+          "id": 68,
+          "title": "Godsword shard 3"
+        },
+        {
+          "id": 94,
+          "title": "Bandos hilt"
+        },
+        {
+          "id": 91,
+          "title": "Bandos chestplate"
+        },
+        {
+          "id": 92,
+          "title": "Bandos tassets"
+        },
+        {
+          "id": 93,
+          "title": "Bandos boots"
+        },
+        {
+          "id": 90,
+          "title": "Pet general graardor"
+        }
+      ]
+    },
+    {
+      "title": "Giant Mole",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 97,
+          "title": "Mole claw"
+        },
+        {
+          "id": 96,
+          "title": "Mole skin"
+        },
+        {
+          "id": 95,
+          "title": "Baby mole"
+        }
+      ]
+    },
+    {
+      "title": "Grotesque Guardians",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 102,
+          "title": "Granite hammer"
+        },
+        {
+          "id": 100,
+          "title": "Granite gloves"
+        },
+        {
+          "id": 101,
+          "title": "Granite ring"
+        },
+        {
+          "id": 98,
+          "title": "Noon"
+        },
+        {
+          "id": 99,
+          "title": "Black tourmaline core"
+        },
+        {
+          "id": 103,
+          "title": "Jar of stone"
+        },
+        {
+          "id": 104,
+          "title": "Granite dust"
+        }
+      ]
+    },
+    {
+      "title": "Hespori",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 105,
+          "title": "Bottomless compost bucket"
+        },
+        {
+          "id": 106,
+          "title": "Iasor seed"
+        },
+        {
+          "id": 107,
+          "title": "Kronos seed"
+        },
+        {
+          "id": 108,
+          "title": "Attas seed"
+        }
+      ]
+    },
+    {
+      "title": "The Inferno",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 110,
+          "title": "Infernal cape"
+        },
+        {
+          "id": 109,
+          "title": "Jal-nib-rek"
+        }
+      ]
+    },
+    {
+      "title": "Kalphite Queen",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 112,
+          "title": "Kq head"
+        },
+        {
+          "id": 111,
+          "title": "Kalphite princess"
+        },
+        {
+          "id": 113,
+          "title": "Jar of sand"
+        },
+        {
+          "id": 114,
+          "title": "Dragon chainbody"
+        },
+        {
+          "id": 50,
+          "title": "Dragon 2h sword"
+        }
+      ]
+    },
+    {
+      "title": "King Black Dragon",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 116,
+          "title": "Kbd heads"
+        },
+        {
+          "id": 115,
+          "title": "Prince black dragon"
+        },
+        {
+          "id": 117,
+          "title": "Draconic visage"
+        },
+        {
+          "id": 49,
+          "title": "Dragon pickaxe"
+        }
+      ]
+    },
+    {
+      "title": "Kraken",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 120,
+          "title": "Trident of the seas"
+        },
+        {
+          "id": 119,
+          "title": "Kraken tentacle"
+        },
+        {
+          "id": 118,
+          "title": "Pet kraken"
+        },
+        {
+          "id": 121,
+          "title": "Jar of dirt"
+        }
+      ]
+    },
+    {
+      "title": "Kree'arra",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 66,
+          "title": "Godsword shard 1"
+        },
+        {
+          "id": 67,
+          "title": "Godsword shard 2"
+        },
+        {
+          "id": 68,
+          "title": "Godsword shard 3"
+        },
+        {
+          "id": 126,
+          "title": "Armadyl hilt"
+        },
+        {
+          "id": 123,
+          "title": "Armadyl helmet"
+        },
+        {
+          "id": 124,
+          "title": "Armadyl chestplate"
+        },
+        {
+          "id": 125,
+          "title": "Armadyl chainskirt"
+        },
+        {
+          "id": 122,
+          "title": "Pet kree'arra"
+        }
+      ]
+    },
+    {
+      "title": "Venenatis",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 145,
+          "title": "Venenatis spiderling"
+        },
+        {
+          "id": 146,
+          "title": "Treasonous ring"
+        },
+        {
+          "id": 49,
+          "title": "Dragon pickaxe"
+        },
+        {
+          "id": 50,
+          "title": "Dragon 2h sword"
+        }
+      ]
+    },
+    {
+      "title": "K'ril Tsutsaroth",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 66,
+          "title": "Godsword shard 1"
+        },
+        {
+          "id": 67,
+          "title": "Godsword shard 2"
+        },
+        {
+          "id": 68,
+          "title": "Godsword shard 3"
+        },
+        {
+          "id": 131,
+          "title": "Zamorak hilt"
+        },
+        {
+          "id": 129,
+          "title": "Zamorakian spear"
+        },
+        {
+          "id": 128,
+          "title": "Staff of the dead"
+        },
+        {
+          "id": 130,
+          "title": "Steam battlestaff"
+        },
+        {
+          "id": 127,
+          "title": "Pet k'ril tsutsaroth"
+        }
+      ]
+    },
+    {
+      "title": "Obor",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h1"
+      ],
+      "items": [
+        {
+          "id": 132,
+          "title": "Hill giant club"
+        }
+      ]
+    },
+    {
+      "title": "Scorpia",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 135,
+          "title": "Malediction shard 3"
+        },
+        {
+          "id": 134,
+          "title": "Odium shard 3"
+        },
+        {
+          "id": 133,
+          "title": "Scorpia's offspring"
+        }
+      ]
+    },
+    {
+      "title": "Skotizo",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 138,
+          "title": "Dark claw"
+        },
+        {
+          "id": 136,
+          "title": "Skotos"
+        },
+        {
+          "id": 137,
+          "title": "Jar of darkness"
+        },
+        {
+          "id": 140,
+          "title": "Uncut onyx"
+        },
+        {
+          "id": 139,
+          "title": "Dark totem"
+        },
+        {
+          "id": 141,
+          "title": "Ancient shard"
+        }
+      ]
+    },
+    {
+      "title": "Thermonuclear smoke devil",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 114,
+          "title": "Dragon chainbody"
+        },
+        {
+          "id": 143,
+          "title": "Occult necklace"
+        },
+        {
+          "id": 144,
+          "title": "Smoke battlestaff"
+        },
+        {
+          "id": 142,
+          "title": "Pet smoke devil"
+        }
+      ]
+    },
+    {
+      "title": "Vet'ion",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 148,
+          "title": "Ring of the gods"
+        },
+        {
+          "id": 147,
+          "title": "Vet'ion jr"
+        },
+        {
+          "id": 49,
+          "title": "Dragon pickaxe"
+        },
+        {
+          "id": 50,
+          "title": "Dragon 2h sword"
+        }
+      ]
+    },
+    {
+      "title": "Vorkath",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 149,
+          "title": "Vorki"
+        },
+        {
+          "id": 150,
+          "title": "Vorkath's head"
+        },
+        {
+          "id": 152,
+          "title": "Jar of decay"
+        },
+        {
+          "id": 153,
+          "title": "Dragonbone necklace"
+        },
+        {
+          "id": 117,
+          "title": "Draconic visage"
+        },
+        {
+          "id": 151,
+          "title": "Skeletal visage"
+        }
+      ]
+    },
+    {
+      "title": "Wintertodt",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 158,
+          "title": "Pyromancer hood"
+        },
+        {
+          "id": 157,
+          "title": "Pyromancer garb"
+        },
+        {
+          "id": 159,
+          "title": "Pyromancer robe"
+        },
+        {
+          "id": 161,
+          "title": "Warm gloves"
+        },
+        {
+          "id": 160,
+          "title": "Pyromancer boots"
+        },
+        {
+          "id": 155,
+          "title": "Tome of fire"
+        },
+        {
+          "id": 162,
+          "title": "Bruma torch"
+        },
+        {
+          "id": 85,
+          "title": "Dragon axe"
+        },
+        {
+          "id": 156,
+          "title": "Burnt page"
+        },
+        {
+          "id": 154,
+          "title": "Phoenix"
+        }
+      ]
+    },
+    {
+      "title": "Zulrah",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 164,
+          "title": "Tanzanite mutagen"
+        },
+        {
+          "id": 165,
+          "title": "Magma mutagen"
+        },
+        {
+          "id": 169,
+          "title": "Tanzanite fang"
+        },
+        {
+          "id": 167,
+          "title": "Magic fang"
+        },
+        {
+          "id": 168,
+          "title": "Serpentine visage"
+        },
+        {
+          "id": 163,
+          "title": "Pet snakeling"
+        },
+        {
+          "id": 166,
+          "title": "Jar of swamp"
+        },
+        {
+          "id": 140,
+          "title": "Uncut onyx"
+        },
+        {
+          "id": 170,
+          "title": "Zul-andra teleport"
+        },
+        {
+          "id": 172,
+          "title": "Zulrah's scales"
+        },
+        {
+          "id": 171,
+          "title": "Crystal seed"
+        }
+      ]
+    }
+  ]
+}

@@ -9,76 +9,111 @@
         <ItemSection :cards="cards" :editable="editable" :compact="compact" />
       </template>
       <template v-else>
-        <ItemSection
-                v-for="(section, title) in diariesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in questsData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in combatData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in capesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in collectiblesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in constructionData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in jewelry"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in minigamesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in petsData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ClueSection
-                v-for="(section, title) in cluesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
+          <ItemSection
+            v-for="(section, title) in diariesData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in questsData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in combatData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in capesData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in collectiblesData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in constructionData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in jewelry"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in minigamesData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in petsData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ClueSection
+            v-for="(section, title) in cluesData"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in logBosses"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in logClues"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in logMinigames"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in logRaids"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
+          <ItemSection
+            v-for="(section, title) in logOther"
+            :title="title"
+            :cards="section"
+            :editable="editable"
+            :key="title"
+          />
       </template>
       <template v-if="editable">
         <DialogBinary
@@ -121,6 +156,11 @@ import minigamesData from "@/assets/json/minigames-data.json";
 import petsData from "@/assets/json/pets-data.json";
 import questsData from "@/assets/json/quests-data.json";
 import cluesData from "@/assets/json/clues-data.json";
+import logBosses from "@/assets/json/log-bosses.json";
+import logClues from "@/assets/json/log-clues.json";
+import logMinigames from "@/assets/json/log-minigames.json";
+import logOther from "@/assets/json/log-other.json";
+import logRaids from "@/assets/json/log-raids.json";
 import { mapActions } from "vuex";
 
 export default {
@@ -143,6 +183,11 @@ export default {
     petsData: petsData,
     cluesData: cluesData,
     questsData:questsData,
+    logBosses: logBosses,
+    logClues: logClues,
+    logMinigames: logMinigames,
+    logOther: logOther,
+    logRaids: logRaids,
     rsn: "",
     editable: !window.location.href.includes("/log"),
     cards: []

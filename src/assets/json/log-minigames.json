@@ -1,0 +1,598 @@
+{
+  "Minigames": [
+    {
+      "title": "Barbarian Assault",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 808,
+          "title": "Fighter hat"
+        },
+        {
+          "id": 810,
+          "title": "Runner hat"
+        },
+        {
+          "id": 809,
+          "title": "Ranger hat"
+        },
+        {
+          "id": 811,
+          "title": "Healer hat"
+        },
+        {
+          "id": 812,
+          "title": "Fighter torso"
+        },
+        {
+          "id": 813,
+          "title": "Penance skirt"
+        },
+        {
+          "id": 814,
+          "title": "Runner boots"
+        },
+        {
+          "id": 815,
+          "title": "Penance gloves"
+        },
+        {
+          "id": 816,
+          "title": "Granite helm"
+        },
+        {
+          "id": 817,
+          "title": "Granite body"
+        },
+        {
+          "id": 807,
+          "title": "Pet penance queen"
+        }
+      ]
+    },
+    {
+      "title": "Castle Wars",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 818,
+          "title": "Decorative helm (red)"
+        },
+        {
+          "id": 819,
+          "title": "Decorative armour (red platebody)"
+        },
+        {
+          "id": 822,
+          "title": "Decorative armour (red platelegs)"
+        },
+        {
+          "id": 823,
+          "title": "Decorative armour (red plateskirt)"
+        },
+        {
+          "id": 821,
+          "title": "Decorative shield (red)"
+        },
+        {
+          "id": 820,
+          "title": "Decorative sword (red)"
+        },
+        {
+          "id": 824,
+          "title": "Decorative helm (white)"
+        },
+        {
+          "id": 825,
+          "title": "Decorative armour (white platebody)"
+        },
+        {
+          "id": 828,
+          "title": "Decorative armour (white platelegs)"
+        },
+        {
+          "id": 829,
+          "title": "Decorative armour (white plateskirt)"
+        },
+        {
+          "id": 827,
+          "title": "Decorative shield (white)"
+        },
+        {
+          "id": 826,
+          "title": "Decorative sword (white)"
+        },
+        {
+          "id": 830,
+          "title": "Decorative helm (gold)"
+        },
+        {
+          "id": 831,
+          "title": "Decorative armour (gold platebody)"
+        },
+        {
+          "id": 834,
+          "title": "Decorative armour (gold platelegs)"
+        },
+        {
+          "id": 835,
+          "title": "Decorative armour (gold plateskirt)"
+        },
+        {
+          "id": 833,
+          "title": "Decorative shield (gold)"
+        },
+        {
+          "id": 832,
+          "title": "Decorative sword (gold)"
+        },
+        {
+          "id": 842,
+          "title": "Decorative armour (magic hat)"
+        },
+        {
+          "id": 843,
+          "title": "Decorative armour (magic top)"
+        },
+        {
+          "id": 844,
+          "title": "Decorative armour (magic legs)"
+        },
+        {
+          "id": 845,
+          "title": "Decorative armour (ranged top)"
+        },
+        {
+          "id": 846,
+          "title": "Decorative armour (ranged legs)"
+        },
+        {
+          "id": 847,
+          "title": "Decorative armour (quiver)"
+        },
+        {
+          "id": 838,
+          "title": "Castlewars hood (Zamorak)"
+        },
+        {
+          "id": 839,
+          "title": "Castlewars cloak (Zamorak)"
+        },
+        {
+          "id": 841,
+          "title": "Zamorak banner"
+        },
+        {
+          "id": 1198,
+          "title": "Castlewars hood (Saradomin)"
+        },
+        {
+          "id": 1199,
+          "title": "Castlewars cloak (Saradomin)"
+        },
+        {
+          "id": 840,
+          "title": "Saradomin banner"
+        },
+        {
+          "id": 848,
+          "title": "Saradomin halo"
+        },
+        {
+          "id": 850,
+          "title": "Guthix halo"
+        },
+        {
+          "id": 849,
+          "title": "Zamorak halo"
+        }
+      ]
+    },
+    {
+      "title": "Fishing Trawler",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 851,
+          "title": "Angler hat"
+        },
+        {
+          "id": 852,
+          "title": "Angler top"
+        },
+        {
+          "id": 853,
+          "title": "Angler waders"
+        },
+        {
+          "id": 854,
+          "title": "Angler boots"
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 857,
+          "title": "Gnome goggles"
+        },
+        {
+          "id": 856,
+          "title": "Gnome scarf"
+        },
+        {
+          "id": 858,
+          "title": "Mint cake"
+        },
+        {
+          "id": 855,
+          "title": "Grand seed pod"
+        }
+      ]
+    },
+    {
+      "title": "Magic Training Arena",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 863,
+          "title": "Infinity hat"
+        },
+        {
+          "id": 864,
+          "title": "Infinity top"
+        },
+        {
+          "id": 865,
+          "title": "Infinity bottoms"
+        },
+        {
+          "id": 866,
+          "title": "Infinity boots"
+        },
+        {
+          "id": 867,
+          "title": "Infinity gloves"
+        },
+        {
+          "id": 859,
+          "title": "Beginner wand"
+        },
+        {
+          "id": 860,
+          "title": "Apprentice wand"
+        },
+        {
+          "id": 861,
+          "title": "Teacher wand"
+        },
+        {
+          "id": 862,
+          "title": "Master wand"
+        },
+        {
+          "id": 868,
+          "title": "Mage's book"
+        },
+        {
+          "id": 869,
+          "title": "Bones to peaches"
+        }
+      ]
+    },
+    {
+      "title": "Pest Control",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 876,
+          "title": "Void ranger helm"
+        },
+        {
+          "id": 874,
+          "title": "Void mage helm"
+        },
+        {
+          "id": 875,
+          "title": "Void melee helm"
+        },
+        {
+          "id": 877,
+          "title": "Void seal"
+        },
+        {
+          "id": 871,
+          "title": "Void knight top"
+        },
+        {
+          "id": 878,
+          "title": "Elite void top"
+        },
+        {
+          "id": 873,
+          "title": "Void knight gloves"
+        },
+        {
+          "id": 870,
+          "title": "Void knight mace"
+        },
+        {
+          "id": 872,
+          "title": "Void knight robe"
+        },
+        {
+          "id": 879,
+          "title": "Elite void robe"
+        }
+      ]
+    },
+    {
+      "title": "Rogues' Den",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h5"
+      ],
+      "items": [
+        {
+          "id": 880,
+          "title": "Rogue mask"
+        },
+        {
+          "id": 881,
+          "title": "Rogue top"
+        },
+        {
+          "id": 882,
+          "title": "Rogue trousers"
+        },
+        {
+          "id": 883,
+          "title": "Rogue boots"
+        },
+        {
+          "id": 884,
+          "title": "Rogue gloves"
+        }
+      ]
+    },
+    {
+      "title": "Shades of Mort'ton",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 885,
+          "title": "Amulet of the damned"
+        },
+        {
+          "id": 886,
+          "title": "Flamtaer bag"
+        },
+        {
+          "id": 887,
+          "title": "Fine cloth"
+        }
+      ]
+    },
+    {
+      "title": "Temple Trekking",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h4"
+      ],
+      "items": [
+        {
+          "id": 888,
+          "title": "Lumberjack hat"
+        },
+        {
+          "id": 889,
+          "title": "Lumberjack top"
+        },
+        {
+          "id": 890,
+          "title": "Lumberjack legs"
+        },
+        {
+          "id": 891,
+          "title": "Lumberjack boots"
+        }
+      ]
+    },
+    {
+      "title": "Tithe Farm",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 892,
+          "title": "Farmer's strawhat"
+        },
+        {
+          "id": 893,
+          "title": "Farmer's jacket"
+        },
+        {
+          "id": 894,
+          "title": "Farmer's boro trousers"
+        },
+        {
+          "id": 895,
+          "title": "Farmer's boots"
+        },
+        {
+          "id": 897,
+          "title": "Gricoller's can"
+        },
+        {
+          "id": 896,
+          "title": "Seed box"
+        }
+      ]
+    },
+    {
+      "title": "Trouble Brewing",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 920,
+          "title": "Guilded smile flag"
+        },
+        {
+          "id": 921,
+          "title": "Bronze fist flag"
+        },
+        {
+          "id": 922,
+          "title": "Lucky shot flag"
+        },
+        {
+          "id": 919,
+          "title": "Cutthroat flag"
+        },
+        {
+          "id": 923,
+          "title": "Treasure flag"
+        },
+        {
+          "id": 924,
+          "title": "Phasmatys flag"
+        },
+        {
+          "id": 914,
+          "title": "Purple tricorn hat"
+        },
+        {
+          "id": 905,
+          "title": "Red tricorn hat"
+        },
+        {
+          "id": 908,
+          "title": "Brown tricorn hat"
+        },
+        {
+          "id": 917,
+          "title": "Grey tricorn hat"
+        },
+        {
+          "id": 899,
+          "title": "Blue tricorn hat"
+        },
+        {
+          "id": 902,
+          "title": "Green tricorn hat"
+        },
+        {
+          "id": 913,
+          "title": "Purple naval shirt"
+        },
+        {
+          "id": 904,
+          "title": "Red naval shirt"
+        },
+        {
+          "id": 907,
+          "title": "Brown naval shirt"
+        },
+        {
+          "id": 916,
+          "title": "Grey naval shirt"
+        },
+        {
+          "id": 898,
+          "title": "Blue naval shirt"
+        },
+        {
+          "id": 901,
+          "title": "Green naval shirt"
+        },
+        {
+          "id": 915,
+          "title": "Purple navy slacks"
+        },
+        {
+          "id": 906,
+          "title": "Red navy slacks"
+        },
+        {
+          "id": 909,
+          "title": "Brown navy slacks"
+        },
+        {
+          "id": 918,
+          "title": "Grey navy slacks"
+        },
+        {
+          "id": 900,
+          "title": "Blue navy slacks"
+        },
+        {
+          "id": 903,
+          "title": "Green navy slacks"
+        },
+        {
+          "id": 911,
+          "title": "Black tricorn hat"
+        },
+        {
+          "id": 910,
+          "title": "Black naval shirt"
+        },
+        {
+          "id": 912,
+          "title": "Black navy slacks"
+        },
+        {
+          "id": 925,
+          "title": "The stuff"
+        },
+        {
+          "id": 927,
+          "title": "Rum (red)"
+        },
+        {
+          "id": 1200,
+          "title": "Rum (blue)"
+        }
+      ]
+    }
+  ]
+}
