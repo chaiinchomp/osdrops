@@ -17,20 +17,6 @@
             :key="title"
           />
           <ItemSection
-            v-for="(section, title) in questsData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
-            v-for="(section, title) in combatData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
             v-for="(section, title) in capesData"
             :title="title"
             :cards="section"
@@ -38,42 +24,7 @@
             :key="title"
           />
           <ItemSection
-            v-for="(section, title) in collectiblesData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
-            v-for="(section, title) in constructionData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
-            v-for="(section, title) in jewelry"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
-            v-for="(section, title) in minigamesData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ItemSection
-            v-for="(section, title) in petsData"
-            :title="title"
-            :cards="section"
-            :editable="editable"
-            :key="title"
-          />
-          <ClueSection
-            v-for="(section, title) in cluesData"
+            v-for="(section, title) in otherData"
             :title="title"
             :cards="section"
             :editable="editable"
@@ -141,21 +92,13 @@
 
 <script>
 import ItemSection from "@/components/ItemSection.vue";
-import ClueSection from "@/components/ClueSection.vue";
 import ItemSearch from "@/components/ItemSearch.vue";
 import BackToTop from "@/components/BackToTop.vue";
 import DialogBinary from "@/components/DialogBinary.vue";
 import DialogShare from "@/components/DialogShare.vue";
 import capesData from "@/assets/json/capes-data.json";
-import collectiblesData from "@/assets/json/collectibles-data.json";
-import combatData from "@/assets/json/combat-data.json";
-import constructionData from "@/assets/json/construction-data.json";
 import diariesData from "@/assets/json/diaries-data.json";
-import jewelryData from "@/assets/json/jewelry-data.json";
-import minigamesData from "@/assets/json/minigames-data.json";
-import petsData from "@/assets/json/pets-data.json";
-import questsData from "@/assets/json/quests-data.json";
-import cluesData from "@/assets/json/clues-data.json";
+import otherData from "@/assets/json/other-achievements-data.json";
 import logBosses from "@/assets/json/log-bosses.json";
 import logClues from "@/assets/json/log-clues.json";
 import logMinigames from "@/assets/json/log-minigames.json";
@@ -168,21 +111,13 @@ export default {
     DialogBinary,
     DialogShare,
     ItemSection,
-    ClueSection,
     ItemSearch,
     BackToTop
   },
   data: () => ({
     capesData: capesData,
-    collectiblesData: collectiblesData,
-    combatData: combatData,
-    constructionData: constructionData,
     diariesData: diariesData,
-    jewelryData: jewelryData,
-    minigamesData: minigamesData,
-    petsData: petsData,
-    cluesData: cluesData,
-    questsData:questsData,
+    otherData: otherData,
     logBosses: logBosses,
     logClues: logClues,
     logMinigames: logMinigames,
@@ -208,10 +143,7 @@ export default {
   },
   created: function() {
     this.dataSets = [
-        capesData, collectiblesData, combatData,
-        constructionData, diariesData, jewelryData,
-        minigamesData, petsData, cluesData,
-        questsData
+        capesData, diariesData
     ]
 
     this.cards = []
@@ -219,23 +151,15 @@ export default {
         this.cards.concat.apply([], Object.values(itemData));
     }
     if (!this.editable) {
-      if (this.$route.query.items && this.$route.query.clues) {
+      if (this.$route.query.items) {
         let tempItems = {};
         const items = this.$route.query.items.split(".");
         for (const key of items) {
           tempItems[key] = "";
         }
 
-        const tempClues = {};
-        const paramClues = this.$route.query.clues.split(".");
-        const diff = ["Beginner", "Easy", "Medium", "Hard", "Elite", "Master"];
-        diff.forEach((key, i) => {
-          tempClues[key] = paramClues[i];
-        });
-
         this.setSessionData({
-          items: tempItems,
-          clues: tempClues
+          items: tempItems
         });
       }
       if (this.$route.query.rsn) {

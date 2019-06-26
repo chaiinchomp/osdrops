@@ -302,7 +302,7 @@
     },
     {
       "title": "Chompy Birds",
-      "cumulative": false,
+      "cumulative": true,
       "grid": [
         "grid-horizontal",
         "grid-h6"
@@ -426,7 +426,7 @@
     },
     {
       "title": "Cyclopes",
-      "cumulative": false,
+      "cumulative": true,
       "grid": [
         "grid-horizontal",
         "grid-h4"

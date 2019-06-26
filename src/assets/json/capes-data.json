@@ -1,108 +1,6 @@
 {
   "Capes": [
     {
-      "title": "Max Capes",
-      "cumulative": false,
-      "grid": [
-        "grid-horizontal",
-        "grid-h6"
-      ],
-      "items": [
-        {
-          "id": 106,
-          "title": "Max Cape"
-        },
-        {
-          "id": 97,
-          "title": "Ardougne Max Cape"
-        },
-        {
-          "id": 98,
-          "title": "Assembler Max Cape"
-        },
-        {
-          "id": 99,
-          "title": "Ava's Max Cape"
-        },
-        {
-          "id": 100,
-          "title": "Fire Max Cape"
-        },
-        {
-          "id": 101,
-          "title": "Guthix Max Cape"
-        },
-        {
-          "id": 102,
-          "title": "Imbued Guthix Max Cape"
-        },
-        {
-          "id": 103,
-          "title": "Imbued Saradomin Max Cape"
-        },
-        {
-          "id": 104,
-          "title": "Imbued Zamorak Max Cape"
-        },
-        {
-          "id": 105,
-          "title": "Infernal Max Cape"
-        },
-        {
-          "id": 107,
-          "title": "Saradomin Max Cape"
-        },
-        {
-          "id": 108,
-          "title": "Zamorak Max Cape"
-        }
-      ]
-    },
-    {
-      "title": "Other Accomplishments",
-      "cumulative": false,
-      "grid": [
-        "grid-horizontal",
-        "grid-h3"
-      ],
-      "items": [
-        {
-          "id": 111,
-          "title": "Achievement Diary Cape"
-        },
-        {
-          "id": 112,
-          "title": "Music Cape"
-        },
-        {
-          "id": 113,
-          "title": "Quest Point Cape"
-        }
-      ]
-    },
-    {
-      "title": "Other Capes",
-      "cumulative": false,
-      "grid": [
-        "grid-horizontal",
-        "grid-h3"
-      ],
-      "items": [
-        {
-          "id": 114,
-          "title": "Cape Of Legends"
-        },
-        {
-          "id": 115,
-          "title": "Champion's Cape"
-        },
-        {
-          "id": 116,
-          "title": "Mythical Cape"
-        }
-      ]
-    },
-    {
       "title": "Skill Capes",
       "cumulative": false,
       "grid": [
@@ -111,96 +9,176 @@
       ],
       "items": [
         {
-          "id": 117,
+          "id": 2063,
           "title": "Agility Cape"
         },
         {
-          "id": 118,
+          "id": 2064,
           "title": "Attack Cape"
         },
         {
-          "id": 119,
+          "id": 2065,
           "title": "Construction Cape"
         },
         {
-          "id": 120,
+          "id": 2066,
           "title": "Cooking Cape"
         },
         {
-          "id": 121,
+          "id": 2067,
           "title": "Crafting Cape"
         },
         {
-          "id": 122,
+          "id": 2068,
           "title": "Defence Cape"
         },
         {
-          "id": 123,
+          "id": 2069,
           "title": "Farming Cape"
         },
         {
-          "id": 124,
+          "id": 2070,
           "title": "Firemaking Cape"
         },
         {
-          "id": 125,
+          "id": 2071,
           "title": "Fishing Cape"
         },
         {
-          "id": 126,
+          "id": 2072,
           "title": "Fletching Cape"
         },
         {
-          "id": 127,
+          "id": 2073,
           "title": "Herblore Cape"
         },
         {
-          "id": 128,
+          "id": 2074,
           "title": "Hitpoints Cape"
         },
         {
-          "id": 129,
+          "id": 2075,
           "title": "Hunter Cape"
         },
         {
-          "id": 130,
+          "id": 2076,
           "title": "Magic Cape"
         },
         {
-          "id": 131,
+          "id": 2077,
           "title": "Mining Cape"
         },
         {
-          "id": 132,
+          "id": 2078,
           "title": "Prayer Cape"
         },
         {
-          "id": 133,
+          "id": 2079,
           "title": "Ranging Cape"
         },
         {
-          "id": 134,
+          "id": 2080,
           "title": "Runecraft Cape"
         },
         {
-          "id": 135,
+          "id": 2081,
           "title": "Slayer Cape"
         },
         {
-          "id": 136,
+          "id": 2082,
           "title": "Smithing Cape"
         },
         {
-          "id": 137,
+          "id": 2083,
           "title": "Strength Cape"
         },
         {
-          "id": 138,
+          "id": 2084,
           "title": "Thieving Cape"
         },
         {
-          "id": 139,
+          "id": 2085,
           "title": "Woodcutting Cape"
+        }
+      ]
+    },
+    {
+      "title": "Accomplishment Capes",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h3"
+      ],
+      "items": [
+        {
+          "id": 2060,
+          "title": "Achievement Diary Cape"
+        },
+        {
+          "id": 2061,
+          "title": "Music Cape"
+        },
+        {
+          "id": 2062,
+          "title": "Quest Point Cape"
+        }
+      ]
+    },
+    {
+      "title": "Max Capes",
+      "cumulative": false,
+      "grid": [
+        "grid-horizontal",
+        "grid-h6"
+      ],
+      "items": [
+        {
+          "id": 2048,
+          "title": "Max Cape"
+        },
+        {
+          "id": 2049,
+          "title": "Ardougne Max Cape"
+        },
+        {
+          "id": 2050,
+          "title": "Assembler Max Cape"
+        },
+        {
+          "id": 2051,
+          "title": "Ava's Max Cape"
+        },
+        {
+          "id": 2052,
+          "title": "Fire Max Cape"
+        },
+        {
+          "id": 2053,
+          "title": "Guthix Max Cape"
+        },
+        {
+          "id": 2054,
+          "title": "Imbued Guthix Max Cape"
+        },
+        {
+          "id": 2055,
+          "title": "Imbued Saradomin Max Cape"
+        },
+        {
+          "id": 2056,
+          "title": "Imbued Zamorak Max Cape"
+        },
+        {
+          "id": 2057,
+          "title": "Infernal Max Cape"
+        },
+        {
+          "id": 2058,
+          "title": "Saradomin Max Cape"
+        },
+        {
+          "id": 2059,
+          "title": "Zamorak Max Cape"
         }
       ]
     }
