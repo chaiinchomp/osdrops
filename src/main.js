@@ -3,7 +3,7 @@ import "./plugins/vuetify";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
-import Tabs from 'vue-tabs-component';
+import Tabs from "vue-tabs-component";
 
 Vue.config.productionTip = false;
 

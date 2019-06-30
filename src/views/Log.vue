@@ -3,119 +3,119 @@
     <tabs :options="{ defaultTabHash: 'account' }">
       <tab id="account" name="Account">
         <div class="text-xs-center">
-            <v-container>
-              <template v-if="!editable && rsn !== ''">
-                <h2 class="primary--text">{{ rsn }}</h2>
-              </template>
-              <ItemSearch />
-              <ItemSection
-                v-for="(section, title) in diariesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
+          <v-container>
+            <template v-if="!editable && rsn !== ''">
+              <h2 class="primary--text">{{ rsn }}</h2>
+            </template>
+            <ItemSearch />
+            <ItemSection
+              v-for="(section, title) in diariesData"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in capesData"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in otherData"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <template v-if="editable">
+              <DialogBinary
+                :cardText="'Remove all items?'"
+                :btnText="'Remove all items'"
+                :action="'Remove'"
+                :snackText="'All items removed'"
+                @confirm="clearStorage"
               />
-              <ItemSection
-                v-for="(section, title) in capesData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
+              <DialogShare />
+            </template>
+            <template v-else>
+              <DialogBinary
+                :cardText="'Replace your log with this one?'"
+                :btnText="'Replace Log'"
+                :action="'Replace'"
+                :snackText="'Log Replaced'"
+                @confirm="replace"
               />
-              <ItemSection
-                v-for="(section, title) in otherData"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <template v-if="editable">
-                <DialogBinary
-                  :cardText="'Remove all items?'"
-                  :btnText="'Remove all items'"
-                  :action="'Remove'"
-                  :snackText="'All items removed'"
-                  @confirm="clearStorage"
-                />
-                <DialogShare />
-              </template>
-              <template v-else>
-                <DialogBinary
-                  :cardText="'Replace your log with this one?'"
-                  :btnText="'Replace Log'"
-                  :action="'Replace'"
-                  :snackText="'Log Replaced'"
-                  @confirm="replace"
-                />
-              </template>
-            </v-container>
-            <BackToTop />
-          </div>
+            </template>
+          </v-container>
+          <BackToTop />
+        </div>
       </tab>
       <tab id="collection" name="Collection Log">
         <div class="text-xs-center">
-            <v-container>
-              <template v-if="!editable && rsn !== ''">
-                <h2 class="primary--text">{{ rsn }} Collection Log</h2>
-              </template>
-              <ItemSearch />
-              <ItemSection
-                v-for="(section, title) in logBosses"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
+          <v-container>
+            <template v-if="!editable && rsn !== ''">
+              <h2 class="primary--text">{{ rsn }} Collection Log</h2>
+            </template>
+            <ItemSearch />
+            <ItemSection
+              v-for="(section, title) in logBosses"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in logClues"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in logMinigames"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in logRaids"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <ItemSection
+              v-for="(section, title) in logOther"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <template v-if="editable">
+              <DialogBinary
+                :cardText="'Remove all items?'"
+                :btnText="'Remove all items'"
+                :action="'Remove'"
+                :snackText="'All items removed'"
+                @confirm="clearStorage"
               />
-              <ItemSection
-                v-for="(section, title) in logClues"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
+              <DialogShare />
+            </template>
+            <template v-else>
+              <DialogBinary
+                :cardText="'Replace your log with this one?'"
+                :btnText="'Replace Log'"
+                :action="'Replace'"
+                :snackText="'Log Replaced'"
+                @confirm="replace"
               />
-              <ItemSection
-                v-for="(section, title) in logMinigames"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in logRaids"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <ItemSection
-                v-for="(section, title) in logOther"
-                :title="title"
-                :cards="section"
-                :editable="editable"
-                :key="title"
-              />
-              <template v-if="editable">
-                <DialogBinary
-                  :cardText="'Remove all items?'"
-                  :btnText="'Remove all items'"
-                  :action="'Remove'"
-                  :snackText="'All items removed'"
-                  @confirm="clearStorage"
-                />
-                <DialogShare />
-              </template>
-              <template v-else>
-                <DialogBinary
-                  :cardText="'Replace your log with this one?'"
-                  :btnText="'Replace Log'"
-                  :action="'Replace'"
-                  :snackText="'Log Replaced'"
-                  @confirm="replace"
-                />
-              </template>
-            </v-container>
-            <BackToTop />
-          </div>
+            </template>
+          </v-container>
+          <BackToTop />
+        </div>
       </tab>
       <tab id="other" name="Tasks">
         Coming soon !
@@ -171,13 +171,11 @@ export default {
     }
   },
   created: function() {
-    this.dataSets = [
-        capesData, diariesData
-    ]
+    this.dataSets = [capesData, diariesData];
 
-    this.cards = []
+    this.cards = [];
     for (const itemData of this.dataSets) {
-        this.cards.concat.apply([], Object.values(itemData));
+      this.cards.concat.apply([], Object.values(itemData));
     }
     if (!this.editable) {
       if (this.$route.query.items) {
@@ -253,9 +251,9 @@ export default {
     background-color: #222;
     border: 0;
     border-radius: 3px 3px 0 0;
-    margin-right: .5em;
+    margin-right: 0.5em;
     transform: translateY(2px);
-    transition: transform .3s ease;
+    transition: transform 0.3s ease;
   }
   .tabs-component-tab.is-active {
     border-bottom: 0;
@@ -267,7 +265,7 @@ export default {
   align-items: center;
   color: inherit;
   display: flex;
-  padding: .75em 1em;
+  padding: 0.75em 1em;
   text-decoration: none;
 }
 .tabs-component-panels {
@@ -279,7 +277,7 @@ export default {
     background-color: #222;
     border: 0;
     border-radius: 6px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, .05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     padding: 4em 2em;
   }
 }
