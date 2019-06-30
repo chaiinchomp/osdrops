@@ -66,9 +66,7 @@ export default {
   data: () => ({
     drawer: null,
     routes: [
-      { name: "Log", icon: "check_circle_outline", to: "/" },
-      { name: "About", icon: "info", to: "/about" },
-      { name: "Donate", icon: "favorite", to: "/donate" }
+      { name: "Log", icon: "check_circle_outline", to: "/" }
     ]
   })
 };
