@@ -1,16 +1,13 @@
 <template>
   <section class="section" v-show="!empty">
-    <template v-if="!compact">
-      <v-divider></v-divider>
-      <h2 class="section-title">{{ title }}</h2>
-    </template>
+    <v-divider></v-divider>
+    <h2 class="section-title">{{ title }}</h2>
     <div class="section-content">
       <ItemCard
         v-for="card in cards"
         :key="card.title"
         :card="card"
         :editable="editable"
-        :compact="compact"
       />
     </div>
   </section>
@@ -26,8 +23,7 @@ export default {
   props: {
     title: String,
     cards: Array,
-    editable: Boolean,
-    compact: Boolean
+    editable: Boolean
   },
   computed: {
     empty: function() {
@@ -54,8 +50,5 @@ export default {
 .v-card {
   margin: 1rem;
   width: 20em;
-}
-.compact {
-  margin: 0.1rem;
 }
 </style>

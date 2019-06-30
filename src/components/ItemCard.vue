@@ -38,8 +38,7 @@ export default {
   },
   props: {
     card: Object,
-    editable: Boolean,
-    compact: Boolean
+    editable: Boolean
   },
   data() {
     return {

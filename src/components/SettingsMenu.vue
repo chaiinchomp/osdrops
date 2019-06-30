@@ -6,14 +6,6 @@
     <v-list class="menu-list">
       <v-list-tile>
         <v-switch
-          v-model="compact"
-          label="Compact Theme"
-          color="primary"
-          :hide-details="true"
-        ></v-switch>
-      </v-list-tile>
-      <v-list-tile>
-        <v-switch
           v-model="onlyUnlocked"
           label="Hide unlocked items"
           color="primary"
@@ -27,14 +19,6 @@
 <script>
 export default {
   computed: {
-    compact: {
-      get() {
-        return this.$store.getters.isCompactTheme;
-      },
-      set() {
-        this.$store.dispatch("toggleCompactTheme");
-      }
-    },
     onlyUnlocked: {
       get() {
         return this.$store.getters.hideUnlocked;

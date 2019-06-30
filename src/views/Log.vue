@@ -8,32 +8,27 @@
                 <h2 class="primary--text">{{ rsn }}</h2>
               </template>
               <ItemSearch />
-              <template v-if="compact">
-                <ItemSection :cards="cards" :editable="editable" :compact="compact" />
-              </template>
-              <template v-else>
-                  <ItemSection
-                    v-for="(section, title) in diariesData"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in capesData"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in otherData"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-              </template>
+              <ItemSection
+                v-for="(section, title) in diariesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in capesData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in otherData"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
               <template v-if="editable">
                 <DialogBinary
                   :cardText="'Remove all items?'"
@@ -64,46 +59,41 @@
                 <h2 class="primary--text">{{ rsn }} Collection Log</h2>
               </template>
               <ItemSearch />
-              <template v-if="compact">
-                <ItemSection :cards="cards" :editable="editable" :compact="compact" />
-              </template>
-              <template v-else>
-                  <ItemSection
-                    v-for="(section, title) in logBosses"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in logClues"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in logMinigames"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in logRaids"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-                  <ItemSection
-                    v-for="(section, title) in logOther"
-                    :title="title"
-                    :cards="section"
-                    :editable="editable"
-                    :key="title"
-                  />
-              </template>
+              <ItemSection
+                v-for="(section, title) in logBosses"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in logClues"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in logMinigames"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in logRaids"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
+              <ItemSection
+                v-for="(section, title) in logOther"
+                :title="title"
+                :cards="section"
+                :editable="editable"
+                :key="title"
+              />
               <template v-if="editable">
                 <DialogBinary
                   :cardText="'Remove all items?'"
@@ -178,11 +168,6 @@ export default {
     },
     replace: function() {
       this.replaceLog();
-    }
-  },
-  computed: {
-    compact: function() {
-      return this.$store.getters.isCompactTheme;
     }
   },
   created: function() {

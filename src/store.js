@@ -12,7 +12,6 @@ export default new Vuex.Store({
     cleared: false,
     sessionItems: JSON.parse(sessionStorage.getItem("items")) || {},
     sessionClues: JSON.parse(sessionStorage.getItem("clues")) || resetClues(),
-    compact: JSON.parse(localStorage.getItem("compact")) || false,
     hideUnlocked: false
   },
   getters: {
@@ -47,9 +46,6 @@ export default new Vuex.Store({
     isCleared: state => {
       return state.cleared;
     },
-    isCompactTheme: state => {
-      return state.compact;
-    },
     hideUnlocked: state => {
       return state.hideUnlocked;
     }
@@ -83,9 +79,6 @@ export default new Vuex.Store({
     },
     ADD_RSN(state, rsn) {
       state.rsn = rsn;
-    },
-    TOGGLE_COMPACT(state) {
-      state.compact = !state.compact;
     },
     TOGGLE_UNLOCKED(state) {
       state.hideUnlocked = !state.hideUnlocked;
@@ -131,10 +124,6 @@ export default new Vuex.Store({
     addRSN: (context, rsn) => {
       context.commit("ADD_RSN", rsn);
       localStorage.setItem("rsn", rsn);
-    },
-    toggleCompactTheme: context => {
-      context.commit("TOGGLE_COMPACT");
-      localStorage.setItem("compact", JSON.stringify(context.state.compact));
     },
     toggleUnlocked: context => {
       context.commit("TOGGLE_UNLOCKED");
