@@ -6,14 +6,6 @@
     <v-list class="menu-list">
       <v-list-tile>
         <v-switch
-          v-model="dark"
-          label="Dark Theme"
-          color="primary"
-          :hide-details="true"
-        ></v-switch>
-      </v-list-tile>
-      <v-list-tile>
-        <v-switch
           v-model="compact"
           label="Compact Theme"
           color="primary"
@@ -41,14 +33,6 @@ export default {
       },
       set() {
         this.$store.dispatch("toggleCompactTheme");
-      }
-    },
-    dark: {
-      get() {
-        return this.$store.getters.isDarkTheme;
-      },
-      set() {
-        this.$store.dispatch("toggleDarkTheme");
       }
     },
     onlyUnlocked: {

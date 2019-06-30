@@ -12,7 +12,6 @@ export default new Vuex.Store({
     cleared: false,
     sessionItems: JSON.parse(sessionStorage.getItem("items")) || {},
     sessionClues: JSON.parse(sessionStorage.getItem("clues")) || resetClues(),
-    dark: JSON.parse(localStorage.getItem("dark")) || false,
     compact: JSON.parse(localStorage.getItem("compact")) || false,
     hideUnlocked: false
   },
@@ -47,9 +46,6 @@ export default new Vuex.Store({
     },
     isCleared: state => {
       return state.cleared;
-    },
-    isDarkTheme: state => {
-      return state.dark;
     },
     isCompactTheme: state => {
       return state.compact;
@@ -87,9 +83,6 @@ export default new Vuex.Store({
     },
     ADD_RSN(state, rsn) {
       state.rsn = rsn;
-    },
-    TOGGLE_DARK(state) {
-      state.dark = !state.dark;
     },
     TOGGLE_COMPACT(state) {
       state.compact = !state.compact;
@@ -142,10 +135,6 @@ export default new Vuex.Store({
     toggleCompactTheme: context => {
       context.commit("TOGGLE_COMPACT");
       localStorage.setItem("compact", JSON.stringify(context.state.compact));
-    },
-    toggleDarkTheme: context => {
-      context.commit("TOGGLE_DARK");
-      localStorage.setItem("dark", JSON.stringify(context.state.dark));
     },
     toggleUnlocked: context => {
       context.commit("TOGGLE_UNLOCKED");

@@ -1,5 +1,5 @@
 <template>
-  <v-app id="app" :dark="dark">
+  <v-app id="app" dark>
     <AppNavbar />
     <v-content>
       <transition name="router-fade" enter-active-class="animated fadeIn">
@@ -19,11 +19,6 @@ export default {
   components: {
     AppNavbar,
     AppFooter
-  },
-  computed: {
-    dark: function() {
-      return this.$store.getters.isDarkTheme;
-    }
   }
 };
 </script>
