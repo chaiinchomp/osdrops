@@ -12,13 +12,21 @@
       >
     </p>
     <p>
-      Source code available at
+      Source code available on
       <a
-        href="https://github.com/rdsa/osdrops"
+        href="https://github.com/chaiinchomp/osdrops"
         target="_blank"
         class="blue--text text--lighten-2"
         >GitHub</a
       >
+      (forked from
+      <a
+        href="https://github.com/rdsa/osdrops"
+        target="_blank"
+        class="blue--text text--lighten-2"
+        >rsda/osdrops</a
+      >
+      )
     </p>
     <p>
       Item images from the
