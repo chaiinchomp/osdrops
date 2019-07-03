@@ -117,14 +117,27 @@
           <BackToTop />
         </div>
       </tab>
-      <tab id="other" name="Tasks">
-        Coming soon !
+      <tab id="tasks" name="Tasks">
+        <div class="text-xs-center">
+          <v-container>
+            <TaskSection
+              v-for="(section, title) in taskList"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+          </v-container>
+          <BackToTop />
+        </div>
       </tab>
     </tabs>
   </div>
 </template>
 
 <script>
+import TaskSection from "@/components/TaskSection.vue";
+import taskList from "@/assets/json/tasks.json";
 import ItemSection from "@/components/ItemSection.vue";
 import ItemSearch from "@/components/ItemSearch.vue";
 import BackToTop from "@/components/BackToTop.vue";
@@ -144,6 +157,7 @@ export default {
   components: {
     DialogBinary,
     DialogShare,
+    TaskSection,
     ItemSection,
     ItemSearch,
     BackToTop
@@ -157,6 +171,7 @@ export default {
     logMinigames: logMinigames,
     logOther: logOther,
     logRaids: logRaids,
+    taskList: taskList,
     rsn: "",
     editable: !window.location.href.includes("/log"),
     cards: []
@@ -209,6 +224,9 @@ export default {
   opacity: 0.3;
 }
 .unlocked {
+  opacity: 1;
+}
+.completed {
   opacity: 1;
 }
 .tabs-component {
