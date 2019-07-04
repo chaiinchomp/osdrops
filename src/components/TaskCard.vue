@@ -20,22 +20,11 @@
         </v-icon>
       </v-progress-circular>
     </div>
-    <div class="grid-horizontal grid-h2">
-      <TaskTag
-        v-for="tag in tags"
-        :key="tag.id"
-        :tag="tag"
-        :editable="editable"
-      />
-    </div>
   </v-card>
 </template>
 
 <script>
 export default {
-  components: {
-    TaskTag: () => import("./TaskTag.vue")
-  },
   props: {
     card: Object,
     editable: Boolean
@@ -44,7 +33,6 @@ export default {
     return {
       title: this.card.title,
       icon: this.card.icon,
-      tags: this.card.tags,
       completed: 1
     };
   },
