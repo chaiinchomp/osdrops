@@ -2,190 +2,59 @@
   <div>
     <tabs :options="{ defaultTabHash: 'account' }">
       <tab id="account" name="Account">
-        <div class="text-xs-center">
-          <v-container>
-            <template v-if="!editable && rsn !== ''">
-              <h2 class="primary--text">{{ rsn }}</h2>
-            </template>
-            <ItemSearch />
-            <ItemSection
-              v-for="(section, title) in diariesData"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in capesData"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in otherData"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <template v-if="editable">
-              <DialogBinary
-                :cardText="'Remove all items?'"
-                :btnText="'Remove all items'"
-                :action="'Remove'"
-                :snackText="'All items removed'"
-                @confirm="clearStorage"
-              />
-              <DialogShare />
-            </template>
-            <template v-else>
-              <DialogBinary
-                :cardText="'Replace your log with this one?'"
-                :btnText="'Replace Log'"
-                :action="'Replace'"
-                :snackText="'Log Replaced'"
-                @confirm="replace"
-              />
-            </template>
-          </v-container>
-          <BackToTop />
-        </div>
+        <ItemCollectionTab
+          :collection="logAccount"
+          :editable="editable"
+          :rsn="rsn"
+        />
       </tab>
-      <tab id="collection" name="Collection Log">
-        <div class="text-xs-center">
-          <v-container>
-            <template v-if="!editable && rsn !== ''">
-              <h2 class="primary--text">{{ rsn }} Collection Log</h2>
-            </template>
-            <ItemSearch />
-            <ItemSection
-              v-for="(section, title) in logBosses"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in logClues"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in logMinigames"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in logRaids"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <ItemSection
-              v-for="(section, title) in logOther"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <template v-if="editable">
-              <DialogBinary
-                :cardText="'Remove all items?'"
-                :btnText="'Remove all items'"
-                :action="'Remove'"
-                :snackText="'All items removed'"
-                @confirm="clearStorage"
-              />
-              <DialogShare />
-            </template>
-            <template v-else>
-              <DialogBinary
-                :cardText="'Replace your log with this one?'"
-                :btnText="'Replace Log'"
-                :action="'Replace'"
-                :snackText="'Log Replaced'"
-                @confirm="replace"
-              />
-            </template>
-          </v-container>
-          <BackToTop />
-        </div>
+      <tab id="bosses" name="Bosses">
+        <ItemCollectionTab
+          :collection="logBosses"
+          :editable="editable"
+          :rsn="rsn"
+        />
       </tab>
-      <tab id="tasks" name="Tasks">
-        <div class="text-xs-center">
-          <v-container>
-            <TaskSection
-              v-for="(section, title) in tasksEasy"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <TaskSection
-              v-for="(section, title) in tasksMedium"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <TaskSection
-              v-for="(section, title) in tasksHard"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <TaskSection
-              v-for="(section, title) in tasksElite"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <TaskSection
-              v-for="(section, title) in tasksMaster"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-            <TaskSection
-              v-for="(section, title) in tasksGod"
-              :title="title"
-              :cards="section"
-              :editable="editable"
-              :key="title"
-            />
-          </v-container>
-          <BackToTop />
-        </div>
+      <tab id="raids" name="Raids">
+        <ItemCollectionTab
+          :collection="logRaids"
+          :editable="editable"
+          :rsn="rsn"
+        />
+      </tab>
+      <tab id="clues" name="Clues">
+        <ItemCollectionTab
+          :collection="logClues"
+          :editable="editable"
+          :rsn="rsn"
+        />
+      </tab>
+      <tab id="minigames" name="Minigames">
+        <ItemCollectionTab
+          :collection="logMinigames"
+          :editable="editable"
+          :rsn="rsn"
+        />
+      </tab>
+      <tab id="other" name="Other">
+        <ItemCollectionTab
+          :collection="logOther"
+          :editable="editable"
+          :rsn="rsn"
+        />
       </tab>
     </tabs>
   </div>
 </template>
 
 <script>
-import TaskSection from "@/components/TaskSection.vue";
-import tasksEasy from "@/assets/json/tasks-easy.json";
-import tasksMedium from "@/assets/json/tasks-medium.json";
-import tasksHard from "@/assets/json/tasks-hard.json";
-import tasksElite from "@/assets/json/tasks-elite.json";
-import tasksMaster from "@/assets/json/tasks-master.json";
-import tasksGod from "@/assets/json/tasks-god.json";
 import ItemSection from "@/components/ItemSection.vue";
 import ItemSearch from "@/components/ItemSearch.vue";
 import BackToTop from "@/components/BackToTop.vue";
 import DialogBinary from "@/components/DialogBinary.vue";
 import DialogShare from "@/components/DialogShare.vue";
-import capesData from "@/assets/json/capes-data.json";
-import diariesData from "@/assets/json/diaries-data.json";
-import otherData from "@/assets/json/other-achievements-data.json";
+import ItemCollectionTab from "@/components/ItemCollectionTab.vue";
+import logAccount from "@/assets/json/account-data.json";
 import logBosses from "@/assets/json/log-bosses.json";
 import logClues from "@/assets/json/log-clues.json";
 import logMinigames from "@/assets/json/log-minigames.json";
@@ -197,46 +66,22 @@ export default {
   components: {
     DialogBinary,
     DialogShare,
-    TaskSection,
     ItemSection,
     ItemSearch,
-    BackToTop
+    BackToTop,
+    ItemCollectionTab
   },
   data: () => ({
-    capesData: capesData,
-    diariesData: diariesData,
-    otherData: otherData,
+    logAccount: logAccount,
     logBosses: logBosses,
     logClues: logClues,
     logMinigames: logMinigames,
     logOther: logOther,
     logRaids: logRaids,
-    tasksEasy: tasksEasy,
-    tasksMedium: tasksMedium,
-    tasksHard: tasksHard,
-    tasksElite: tasksElite,
-    tasksMaster: tasksMaster,
-    tasksGod: tasksGod,
     rsn: "",
     editable: !window.location.href.includes("/log"),
-    cards: []
   }),
-  methods: {
-    ...mapActions(["clear", "addItem", "setSessionData", "replaceLog"]),
-    clearStorage: function() {
-      this.clear();
-    },
-    replace: function() {
-      this.replaceLog();
-    }
-  },
   created: function() {
-    this.dataSets = [capesData, diariesData];
-
-    this.cards = [];
-    for (const itemData of this.dataSets) {
-      this.cards.concat.apply([], Object.values(itemData));
-    }
     if (!this.editable) {
       if (this.$route.query.items) {
         let tempItems = {};
