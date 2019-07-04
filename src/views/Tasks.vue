@@ -1,44 +1,44 @@
 <template>
   <div>
     <tabs :options="{ defaultTabHash: 'account' }">
-      <tab id="account" name="Account">
-        <ItemCollectionTab
-          :collection="logAccount"
+      <tab id="easy" name="Easy">
+        <TaskCollectionTab
+          :collection="tasksEasy"
           :editable="editable"
           :rsn="rsn"
         />
       </tab>
-      <tab id="bosses" name="Bosses">
-        <ItemCollectionTab
-          :collection="logBosses"
+      <tab id="medium" name="Medium">
+        <TaskCollectionTab
+          :collection="tasksMedium"
           :editable="editable"
           :rsn="rsn"
         />
       </tab>
-      <tab id="raids" name="Raids">
-        <ItemCollectionTab
-          :collection="logRaids"
+      <tab id="hard" name="Hard">
+        <TaskCollectionTab
+          :collection="tasksHard"
           :editable="editable"
           :rsn="rsn"
         />
       </tab>
-      <tab id="clues" name="Clues">
-        <ItemCollectionTab
-          :collection="logClues"
+      <tab id="elite" name="Elite">
+        <TaskCollectionTab
+          :collection="tasksElite"
           :editable="editable"
           :rsn="rsn"
         />
       </tab>
-      <tab id="minigames" name="Minigames">
-        <ItemCollectionTab
-          :collection="logMinigames"
+      <tab id="master" name="Master">
+        <TaskCollectionTab
+          :collection="tasksMaster"
           :editable="editable"
           :rsn="rsn"
         />
       </tab>
-      <tab id="other" name="Other">
-        <ItemCollectionTab
-          :collection="logOther"
+      <tab id="god" name="God">
+        <TaskCollectionTab
+          :collection="tasksGod"
           :editable="editable"
           :rsn="rsn"
         />
@@ -48,25 +48,25 @@
 </template>
 
 <script>
-import ItemCollectionTab from "@/components/ItemCollectionTab.vue";
-import logAccount from "@/assets/json/account-data.json";
-import logBosses from "@/assets/json/log-bosses.json";
-import logClues from "@/assets/json/log-clues.json";
-import logMinigames from "@/assets/json/log-minigames.json";
-import logOther from "@/assets/json/log-other.json";
-import logRaids from "@/assets/json/log-raids.json";
+import TaskCollectionTab from "@/components/TaskCollectionTab.vue";
+import tasksEasy from "@/assets/json/tasks-easy.json";
+import tasksMedium from "@/assets/json/tasks-medium.json";
+import tasksHard from "@/assets/json/tasks-hard.json";
+import tasksElite from "@/assets/json/tasks-elite.json";
+import tasksMaster from "@/assets/json/tasks-master.json";
+import tasksGod from "@/assets/json/tasks-god.json";
 
 export default {
   components: {
-    ItemCollectionTab
+    TaskCollectionTab
   },
   data: () => ({
-    logAccount: logAccount,
-    logBosses: logBosses,
-    logClues: logClues,
-    logMinigames: logMinigames,
-    logOther: logOther,
-    logRaids: logRaids,
+    tasksEasy: tasksEasy,
+    tasksMedium: tasksMedium,
+    tasksHard: tasksHard,
+    tasksElite: tasksElite,
+    tasksMaster: tasksMaster,
+    tasksGod: tasksGod,
     rsn: "",
     editable: !window.location.href.includes("/log"),
   }),

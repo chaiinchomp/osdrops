@@ -66,7 +66,8 @@ export default {
   data: () => ({
     drawer: null,
     routes: [
-      { name: "Log", icon: "check_circle_outline", to: "/" }
+      { name: "Collection Log", icon: "check_circle_outline", to: "/" },
+      { name: "Tasks", icon: "check_circle_outline", to: "/tasks" }
     ]
   })
 };
