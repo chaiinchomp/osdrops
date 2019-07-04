@@ -1,0 +1,686 @@
+{
+  "God Tasks": [
+    {
+      "id": 564,
+      "title": "Get the Pet dark core",
+      "icon": "Pet dark core",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "title": "Get 1 unique sigil from Corp",
+      "icon": "Spectral sigil",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 64,
+          "name": "Wildy bosses"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "title": "Get a Jar of stone",
+      "icon": "Jar of stone",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "title": "Get the Jal-nib-rek",
+      "icon": "Jal-nib-rek",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "title": "Get a Jar of darkness",
+      "icon": "Jar of darkness",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "title": "Get 1 unique mutagen",
+      "icon": "Magma mutagen",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 22,
+          "name": "Bosses"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "title": "Get 1 unique mutagen",
+      "icon": "Magma mutagen",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 22,
+          "name": "Bosses"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "title": "Get the Olmlet",
+      "icon": "Olmlet",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "title": "Get the Metamorphic dust",
+      "icon": "Metamorphic dust",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "title": "Upgrade to Xeric's warrior",
+      "icon": "Xeric's warrior",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "title": "Upgrade to Xeric's sentinel",
+      "icon": "Xeric's sentinel",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "title": "Upgrade to Xeric's general",
+      "icon": "Xeric's general",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "title": "Upgrade to Xeric's champion",
+      "icon": "Xeric's champion",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "title": "Upgrade the Sinhaza shroud once",
+      "icon": "Sinhaza shroud tier 3",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "title": "Upgrade the Sinhaza shroud once",
+      "icon": "Sinhaza shroud tier 4",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "title": "Upgrade the Sinhaza shroud once",
+      "icon": "Sinhaza shroud tier 5",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "title": "Finish all easy clue uniques",
+      "icon": "Clue scroll (easy)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "title": "Finish all medium clue uniques",
+      "icon": "Clue scroll (medium)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "title": "Finish all hard clue uniques",
+      "icon": "Clue scroll (hard)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "title": "Finish all elite clue uniques",
+      "icon": "Clue scroll (elite)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "title": "Get the Bloodhound pet",
+      "icon": "Bloodhound",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 47,
+          "name": "Other pet"
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "title": "Finish all master clue uniques",
+      "icon": "Clue scroll (master)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 41,
+          "name": "Master clue"
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "title": "Get the Pet penance queen",
+      "icon": "Pet penance queen",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 47,
+          "name": "Other pet"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "title": "Get Tangleroot",
+      "icon": "Tangleroot",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 588,
+      "title": "Get 1 unique Revenant megarare",
+      "icon": "Craw's bow",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 51,
+          "name": "Revenants"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "title": "Get an Imbued heart or Eternal gem",
+      "icon": "Imbued heart",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "title": "Get an Imbued heart or Eternal gem",
+      "icon": "Imbued heart",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "title": "Get a Dragon full helm",
+      "icon": "Dragon full helm",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "title": "Get 1 unique piece of the Evil chicken outfit",
+      "icon": "Evil chicken head",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 66,
+          "name": "Woodcutting"
+        }
+      ]
+    },
+    {
+      "id": 593,
+      "title": "Get 1 unique piece of the Evil chicken outfit",
+      "icon": "Evil chicken head",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 66,
+          "name": "Woodcutting"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "title": "Get 1 unique piece of the Evil chicken outfit",
+      "icon": "Evil chicken head",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 66,
+          "name": "Woodcutting"
+        }
+      ]
+    }
+  ]
+}

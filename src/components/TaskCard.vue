@@ -4,8 +4,8 @@
       <img
         :class="['item', { editable }, { completed }]"
         :src="getSrc()"
-        :alt="item.name"
-        :title="item.name"
+        :alt="icon"
+        :title="icon"
       />
       <span class="subheading" :class="{ 'green--text': completed }">
         {{ title }}
@@ -20,7 +20,7 @@
         </v-icon>
       </v-progress-circular>
     </div>
-    <div :class="card.grid">
+    <div class="grid-horizontal grid-h2">
       <TaskTag
         v-for="tag in tags"
         :key="tag.id"
@@ -43,7 +43,7 @@ export default {
   data() {
     return {
       title: this.card.title,
-      item: this.card.item,
+      icon: this.card.icon,
       tags: this.card.tags,
       completed: 1
     };
@@ -62,17 +62,15 @@ export default {
   },
   computed: {
     src: function() {
-      return "src" in this.item
-        ? this.item.src
-        : this.item.name.toLowerCase().replace(/ /g, "_") + ".png";
+      return this.icon.toLowerCase().replace(/ /g, "_") + ".png";
     }
-  },
-  mounted: function() {
-    this.completed = this.$store.getters.isUnlocked({
-          editable: this.editable,
-          item: this.item.id
-        }
-      );
+  // }, TODO fix this to work with new completion logic
+  // mounted: function() {
+  //   this.completed = this.$store.getters.isUnlocked({
+  //         editable: this.editable,
+  //         item: this.item.id
+  //       }
+  //     );
   }
 };
 </script>
@@ -91,7 +89,7 @@ export default {
   grid-auto-flow: row;
   grid-template-rows: repeat(auto-fit, 1fr);
 }
-.grid-h3 {
-  grid-template-columns: repeat(3, 1fr);
+.grid-h2 {
+  grid-template-columns: repeat(2, 1fr);
 }
 </style>

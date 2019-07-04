@@ -1,0 +1,2754 @@
+{
+  "Medium Tasks": [
+    {
+      "id": 109,
+      "title": "Get 1 unique from Barrows",
+      "icon": "Verac's helm",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 19,
+          "name": "Barrows"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Get 1 unique from Barrows",
+      "icon": "Verac's helm",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 19,
+          "name": "Barrows"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Get 1 unique from Barrows",
+      "icon": "Verac's helm",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 19,
+          "name": "Barrows"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Get 1 unique from Barrows",
+      "icon": "Verac's helm",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 19,
+          "name": "Barrows"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Get 1 unique from Barrows",
+      "icon": "Verac's helm",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 19,
+          "name": "Barrows"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Get Bryophyta's essence",
+      "icon": "Bryophyta's essence",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 35,
+          "name": "Giant bosses"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Get 1 unique from Crazy Archeologist",
+      "icon": "Fedora",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 64,
+          "name": "Wildy bosses"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Get 1 unique from Crazy Archeologist",
+      "icon": "Fedora",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 64,
+          "name": "Wildy bosses"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Get 1 unique from Crazy Archeologist",
+      "icon": "Fedora",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 64,
+          "name": "Wildy bosses"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Get a Fire cape",
+      "icon": "Fire cape",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 31,
+          "name": "Fight caves"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Get Granite dust",
+      "icon": "Granite dust",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 56,
+          "name": "Slayer bosses"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Get a Hill giant club",
+      "icon": "Hill giant club",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 35,
+          "name": "Giant bosses"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Get 1 Unique from Wintertodt",
+      "icon": "Pyromancer hood",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 65,
+          "name": "Wintertodt"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Get 1 Unique from Wintertodt",
+      "icon": "Pyromancer hood",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 65,
+          "name": "Wintertodt"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Get 1 Unique from Wintertodt",
+      "icon": "Pyromancer hood",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 65,
+          "name": "Wintertodt"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Get Zulrah's scales",
+      "icon": "Zulrah's scales",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 22,
+          "name": "Bosses"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Get a Zul-andra teleport",
+      "icon": "Zul-andra teleport",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 22,
+          "name": "Bosses"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Get a Dark relic or Torn prayer scroll",
+      "icon": "Dark relic",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Get a Dark relic or Torn prayer scroll",
+      "icon": "Dark relic",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Get 5 new uniques from beginner clues",
+      "icon": "Clue scroll (beginner)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 20,
+          "name": "Beginner clue"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "Get a Fighter hat",
+      "icon": "Fighter hat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Get a Healer hat",
+      "icon": "Healer hat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Get a Runner hat",
+      "icon": "Runner hat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Get a Ranger hat",
+      "icon": "Ranger hat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "title": "Get a Fighter torso",
+      "icon": "Fighter torso",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "title": "Get a Granite helm",
+      "icon": "Granite helm",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 18,
+          "name": "Barbarian assault"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "Get the Decorative ranged top",
+      "icon": "Decorative armour (ranged top)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "title": "Get the Decorative ranged legs",
+      "icon": "Decorative armour (ranged legs)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "title": "Get the Decorative ranged quiver",
+      "icon": "Decorative armour (quiver)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "title": "Get the Decorative magic hat",
+      "icon": "Decorative armour (magic hat)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "title": "Get the Decorative magic top",
+      "icon": "Decorative armour (magic top)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Get the Decorative magic bottoms",
+      "icon": "Decorative armour (magic legs)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "title": "Get 1 Angler piece",
+      "icon": "Angler hat",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 32,
+          "name": "Fishing trawler"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "title": "Get 1 Angler piece",
+      "icon": "Angler hat",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 32,
+          "name": "Fishing trawler"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "title": "Get 1 Angler piece",
+      "icon": "Angler hat",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 32,
+          "name": "Fishing trawler"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "title": "Get 1 new unique from Gnome Restaurant",
+      "icon": "Gnome scarf",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 36,
+          "name": "Gnome restaurant"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "title": "Get 1 new unique from Gnome Restaurant",
+      "icon": "Gnome scarf",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 36,
+          "name": "Gnome restaurant"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "title": "Upgrade to an Apprentice wand",
+      "icon": "Apprentice wand",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 40,
+          "name": "Mage training arena"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Upgrade to a Teacher wand",
+      "icon": "Teacher wand",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 40,
+          "name": "Mage training arena"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Upgrade to a Master wand",
+      "icon": "Master wand",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 40,
+          "name": "Mage training arena"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Get an Infinity hat",
+      "icon": "Infinity hat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 40,
+          "name": "Mage training arena"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Get a Mage's book",
+      "icon": "Mage's book",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 40,
+          "name": "Mage training arena"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Get a Void melee helm",
+      "icon": "Void melee helm",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 48,
+          "name": "Pest control"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Get a Void magic helm",
+      "icon": "Void magic helm",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 48,
+          "name": "Pest control"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Get a Void ranger helm",
+      "icon": "Void ranger helm",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 48,
+          "name": "Pest control"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Get a Void Knight top",
+      "icon": "Void Knight top",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 48,
+          "name": "Pest control"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "title": "Get a Void Knight robe",
+      "icon": "Void Knight robe",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 48,
+          "name": "Pest control"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Get 1 piece of Rogue equipment",
+      "icon": "Rogue top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 52,
+          "name": "Rogue's den"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "title": "Get 1 piece of Rogue equipment",
+      "icon": "Rogue top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 52,
+          "name": "Rogue's den"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Get 1 piece of Rogue equipment",
+      "icon": "Rogue top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 52,
+          "name": "Rogue's den"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Get an Amulet of the damned",
+      "icon": "Amulet of the damned",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 53,
+          "name": "Shades of mort'ton"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Get a Flamtaer bag",
+      "icon": "Flamtaer bag",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 53,
+          "name": "Shades of mort'ton"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Get 1 piece of Lumberjack equipment",
+      "icon": "Lumberjack top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 59,
+          "name": "Temple trekking"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Get 1 piece of Lumberjack equipment",
+      "icon": "Lumberjack top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 59,
+          "name": "Temple trekking"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Get 1 piece of Lumberjack equipment",
+      "icon": "Lumberjack top",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 59,
+          "name": "Temple trekking"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "Get the Farmer's strawhat",
+      "icon": "Farmer's strawhat",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 61,
+          "name": "Tithe farm"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Get the Farmer's boro trousers",
+      "icon": "Farmer's boro trousers",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 61,
+          "name": "Tithe farm"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Get the Farmer's jacket",
+      "icon": "Farmer's jacket",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 61,
+          "name": "Tithe farm"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Get the Seed box",
+      "icon": "Seed box",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 61,
+          "name": "Tithe farm"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Get the Red Naval set",
+      "icon": "Red naval shirt",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 62,
+          "name": "Trouble brewing"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "title": "Get the Black Naval set",
+      "icon": "Black naval shirt",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 62,
+          "name": "Trouble brewing"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Get the Cutthroat flag",
+      "icon": "Cutthroat flag",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 62,
+          "name": "Trouble brewing"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Get the Guilded smile flag",
+      "icon": "Guilded smile flag",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 62,
+          "name": "Trouble brewing"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "title": "Get the Pearl fly fishing rod",
+      "icon": "Pearl fly fishing rod",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 14,
+          "name": "Aerial fishing"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Get the Pearl barbarian rod",
+      "icon": "Pearl barbarian rod",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 14,
+          "name": "Aerial fishing"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Get the Goblin Champion scroll",
+      "icon": "Goblin Champion scroll",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 26,
+          "name": "Champion's challenge"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Get the Skeleton Champion scroll",
+      "icon": "Skeleton Champion scroll",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 26,
+          "name": "Champion's challenge"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Get 1 unique Elder chaos robe piece",
+      "icon": "Elder chaos top",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "title": "Get 1 unique Elder chaos robe piece",
+      "icon": "Elder chaos top",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "Get the Bowmaster headpiece",
+      "icon": "Chompy hat (bowmaster)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 27,
+          "name": "Chompy hunting"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "title": "Get a Gold satchel",
+      "icon": "Gold satchel",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 28,
+          "name": "Creature creation"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "title": "Get a Plain satchel",
+      "icon": "Plain satchel",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 28,
+          "name": "Creature creation"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "Get a Dragon defender",
+      "icon": "Dragon defender",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 63,
+          "name": "Warrior's guild"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "title": "Get 1 unique note from Fossil Island",
+      "icon": "Fossil Island note",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 34,
+          "name": "Fossil island notes"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "title": "Get 1 unique note from Fossil Island",
+      "icon": "Fossil Island note",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 34,
+          "name": "Fossil island notes"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "Get 1 unique note from Fossil Island",
+      "icon": "Fossil Island note",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 34,
+          "name": "Fossil island notes"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Get 1 unique note from Fossil Island",
+      "icon": "Fossil Island note",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 34,
+          "name": "Fossil island notes"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "title": "Get the Coal bag",
+      "icon": "Coal bag",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 45,
+          "name": "Motherlode mine"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "title": "Get the Gem bag",
+      "icon": "Gem bag",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 45,
+          "name": "Motherlode mine"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Get 2 unique Ancient pages",
+      "icon": "Ancient page notes",
+      "criteria": "any-2",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 17,
+          "name": "Ancient cavern"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Get a Revenant cave teleport",
+      "icon": "Revenant cave teleport",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 51,
+          "name": "Revenants"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "title": "Get the Graceful boots",
+      "icon": "Graceful boots",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 38,
+          "name": "Graceful"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "title": "Get the Graceful top",
+      "icon": "Graceful top",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 38,
+          "name": "Graceful"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Get the Graceful legs",
+      "icon": "Graceful legs",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 38,
+          "name": "Graceful"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Get tier 5 Shayzien armour",
+      "icon": "Shayzien platebody (5)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "title": "Get a Basilisk head",
+      "icon": "Basilisk head",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "title": "Get a Granite maul",
+      "icon": "Granite maul",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Get a Leaf-bladed battleaxe",
+      "icon": "Leaf-bladed battleaxe",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Get a Granite longsword",
+      "icon": "Granite longsword",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Get Granite legs",
+      "icon": "Granite legs",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Get Adamant boots",
+      "icon": "Adamant boots",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Get Rune boots",
+      "icon": "Rune boots",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Get a Mystic robe top (light)",
+      "icon": "Mystic robe top (light)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "title": "Get a Mystic robe top (dark)",
+      "icon": "Mystic robe top (dark)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "title": "Get a Mystic robe bottom (dark)",
+      "icon": "Mystic robe bottom (dark)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "title": "Get 1 unique Tzhaar drop",
+      "icon": "Obsidian cape",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "title": "Get 1 unique Tzhaar drop",
+      "icon": "Obsidian cape",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Get 1 unique Tzhaar drop",
+      "icon": "Obsidian cape",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "title": "Get 1 unique Tzhaar drop",
+      "icon": "Obsidian cape",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Get a Big shark",
+      "icon": "Big shark",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 33,
+          "name": "Fishing trophies"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Get a Curved bone",
+      "icon": "Curved bone",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 50,
+          "name": "Rare drop table"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Get 1 unique Dark totem piece",
+      "icon": "Dark totem base",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 24,
+          "name": "Catacombs"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Get 1 unique Dark totem piece",
+      "icon": "Dark totem base",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 24,
+          "name": "Catacombs"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "title": "Get a Shaman mask",
+      "icon": "Shaman mask",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Get Superior mining gloves",
+      "icon": "Superior mining gloves",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 43,
+          "name": "Mining guild"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "title": "Get a Bracelet of ethereum",
+      "icon": "Bracelet of ethereum",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 51,
+          "name": "Revenants"
+        }
+      ]
+    }
+  ]
+}

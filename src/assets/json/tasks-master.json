@@ -1,0 +1,1654 @@
+{
+  "Master Tasks": [
+    {
+      "id": 489,
+      "title": "Get the Abyssal orphan",
+      "icon": "Abyssal orphan",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "title": "Get the Ikkle hydra",
+      "icon": "Ikkle hydra",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "title": "Get 1 Unique from Alchemical hydra",
+      "icon": "Hydra's eye",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 56,
+          "name": "Slayer bosses"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "title": "Get a Jar of chemicals",
+      "icon": "Jar of chemicals",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "title": "Get the Callisto cub",
+      "icon": "Callisto cub",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "title": "Get the Hellpuppy",
+      "icon": "Hellpuppy",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "title": "Get a Jar of souls",
+      "icon": "Jar of souls",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "title": "Get the Pet zilyana",
+      "icon": "Pet zilyana",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "title": "Get 1 unique sigil from Corp",
+      "icon": "Spectral sigil",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 64,
+          "name": "Wildy bosses"
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "title": "Get 1 Pet from DKS",
+      "icon": "Pet dagannoth rex",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "title": "Get 1 Pet from DKS",
+      "icon": "Pet dagannoth rex",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "title": "Get 1 Pet from DKS",
+      "icon": "Pet dagannoth rex",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "title": "Get the Tzrek-Jad",
+      "icon": "Tzrek-Jad",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "title": "Get the Pet general graardor",
+      "icon": "Pet general graardor",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "title": "Get the Baby mole",
+      "icon": "Baby mole",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "title": "Get Noon",
+      "icon": "Noon",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "title": "Get an Infernal cape",
+      "icon": "Infernal cape",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 31,
+          "name": "Fight caves"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "title": "Get the Kalphite princess",
+      "icon": "Kalphite princess",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "title": "Get a Jar of sand",
+      "icon": "Jar of sand",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "title": "Get the Prince black dragon",
+      "icon": "Prince black dragon",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "title": "Get the Pet kree'arra",
+      "icon": "Pet kree'arra",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "title": "Get the Pet k'ril tsutsaroth",
+      "icon": "Pet k'ril tsutsaroth",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "title": "Get Skotos",
+      "icon": "Skotos",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "title": "Get the Venenatis spiderling",
+      "icon": "Venenatis spiderling",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "title": "Get Vet'ion jr.",
+      "icon": "Vet'ion jr.",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "title": "Get Vorki",
+      "icon": "Vorki",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "title": "Get a Skeletal visage",
+      "icon": "Skeletal visage",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 22,
+          "name": "Bosses"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "title": "Get a Jar of decay",
+      "icon": "Jar of decay",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "title": "Get the Phoenix",
+      "icon": "Phoenix",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "title": "Get the Pet snakeling",
+      "icon": "Pet snakeling",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "title": "Get a Jar of swamp",
+      "icon": "Jar of swamp",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 57,
+          "name": "Slayer trophies"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "title": "Get 1 unique from Chambers of Xeric",
+      "icon": "Twisted bow",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "title": "Get 1 unique from Chambers of Xeric",
+      "icon": "Twisted bow",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "title": "Get the Xeric's guard",
+      "icon": "Xeric's guard",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 25,
+          "name": "Chambers of Xeric"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "title": "Get 1 unique from Theatre of Blood",
+      "icon": "Scythe of vitur",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "title": "Get 1 unique from Theatre of Blood",
+      "icon": "Scythe of vitur",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "title": "Get 1 unique from Theatre of Blood",
+      "icon": "Scythe of vitur",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "title": "Get Lil' zik",
+      "icon": "Lil' zik",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 21,
+          "name": "Boss pet"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "title": "Upgrade the Sinhaza shroud once",
+      "icon": "Sinhaza shroud tier 2",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Raids"
+        },
+        {
+          "id": 60,
+          "name": "Theatre of blood"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "title": "Get 5 new uniques from easy clues",
+      "icon": "Clue scroll (easy)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 29,
+          "name": "Easy clue"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "PLACEHOLDER",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "title": "Get 5 new uniques from medium clues",
+      "icon": "Clue scroll (medium)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 42,
+          "name": "Medium clue"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "title": "Get 5 new uniques from hard clues",
+      "icon": "Clue scroll (hard)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 39,
+          "name": "Hard clue"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "title": "Get 5 new uniques from elite clues",
+      "icon": "Clue scroll (elite)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "title": "Get 5 new uniques from elite clues",
+      "icon": "Clue scroll (elite)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "title": "Get 5 new uniques from elite clues",
+      "icon": "Clue scroll (elite)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "title": "Get 5 new uniques from elite clues",
+      "icon": "Clue scroll (elite)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "title": "Get 5 new uniques from elite clues",
+      "icon": "Clue scroll (elite)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 30,
+          "name": "Elite clue"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "title": "Get 5 new uniques from master clues",
+      "icon": "Clue scroll (master)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 41,
+          "name": "Master clue"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "title": "Get 5 new uniques from master clues",
+      "icon": "Clue scroll (master)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 41,
+          "name": "Master clue"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "title": "Get 5 new uniques from master clues",
+      "icon": "Clue scroll (master)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 41,
+          "name": "Master clue"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "title": "Get 5 new uniques from master clues",
+      "icon": "Clue scroll (master)",
+      "criteria": "any-5",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 41,
+          "name": "Master clue"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "title": "Finish all shared clue rewards ",
+      "icon": "Clue scroll (medium)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 7,
+          "name": "Clues"
+        },
+        {
+          "id": 16,
+          "name": "All clues"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "title": "Complete the Gold decorative set",
+      "icon": "Decorative armour (gold platebody)",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Minigames"
+        },
+        {
+          "id": 23,
+          "name": "Castle wars"
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "title": "Get the Heron",
+      "icon": "Heron",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "title": "Get the Rock golem",
+      "icon": "Rock golem",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "title": "Get the Beaver",
+      "icon": "Beaver",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "title": "Get the Baby chinchompa",
+      "icon": "Baby chinchompa",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "title": "Get the Giant squirrel",
+      "icon": "Giant squirrel",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "title": "Get the Rift guardian",
+      "icon": "Rift guardian",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Pets"
+        },
+        {
+          "id": 54,
+          "name": "Skilling pet"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "title": "Get 1 unique Ancient artefact",
+      "icon": "Ancient relic",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 51,
+          "name": "Revenants"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "title": "Get 1 unique Revenant megarare",
+      "icon": "Craw's bow",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 51,
+          "name": "Revenants"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "title": "Get a Wyvern visage",
+      "icon": "Wyvern visage",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 46,
+          "name": "Other drops"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "title": "Get 1 unique from Brimstone chest",
+      "icon": "Brimstone key",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 11,
+          "name": "PvM"
+        },
+        {
+          "id": 58,
+          "name": "Slayer uniques"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "title": "Get an Amulet of eternal glory",
+      "icon": "Amulet of eternal glory",
+      "criteria": "all",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Miscellaneous"
+        },
+        {
+          "id": 44,
+          "name": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "title": "Get 1 unique piece of the Evil chicken outfit",
+      "icon": "Evil chicken head",
+      "criteria": "any-1",
+      "items": [
+        {
+          "id": 0,
+          "name": "PLACEHOLDER"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Skilling"
+        },
+        {
+          "id": 66,
+          "name": "Woodcutting"
+        }
+      ]
+    }
+  ]
+}

@@ -121,7 +121,42 @@
         <div class="text-xs-center">
           <v-container>
             <TaskSection
-              v-for="(section, title) in taskList"
+              v-for="(section, title) in tasksEasy"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <TaskSection
+              v-for="(section, title) in tasksMedium"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <TaskSection
+              v-for="(section, title) in tasksHard"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <TaskSection
+              v-for="(section, title) in tasksElite"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <TaskSection
+              v-for="(section, title) in tasksMaster"
+              :title="title"
+              :cards="section"
+              :editable="editable"
+              :key="title"
+            />
+            <TaskSection
+              v-for="(section, title) in tasksGod"
               :title="title"
               :cards="section"
               :editable="editable"
@@ -137,7 +172,12 @@
 
 <script>
 import TaskSection from "@/components/TaskSection.vue";
-import taskList from "@/assets/json/tasks.json";
+import tasksEasy from "@/assets/json/tasks-easy.json";
+import tasksMedium from "@/assets/json/tasks-medium.json";
+import tasksHard from "@/assets/json/tasks-hard.json";
+import tasksElite from "@/assets/json/tasks-elite.json";
+import tasksMaster from "@/assets/json/tasks-master.json";
+import tasksGod from "@/assets/json/tasks-god.json";
 import ItemSection from "@/components/ItemSection.vue";
 import ItemSearch from "@/components/ItemSearch.vue";
 import BackToTop from "@/components/BackToTop.vue";
@@ -171,7 +211,12 @@ export default {
     logMinigames: logMinigames,
     logOther: logOther,
     logRaids: logRaids,
-    taskList: taskList,
+    tasksEasy: tasksEasy,
+    tasksMedium: tasksMedium,
+    tasksHard: tasksHard,
+    tasksElite: tasksElite,
+    tasksMaster: tasksMaster,
+    tasksGod: tasksGod,
     rsn: "",
     editable: !window.location.href.includes("/log"),
     cards: []
