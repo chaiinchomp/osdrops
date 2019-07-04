@@ -1,6 +1,6 @@
-# OS Drops
+# OS Tracker
 
-OS Drops is an online open source collection log for Old School Runescape.
+OS Tracker is an online open source collection log for Old School Runescape.
 
 ## Features
 

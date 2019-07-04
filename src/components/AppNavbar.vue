@@ -8,7 +8,7 @@
       ></v-toolbar-side-icon>
       <v-toolbar-title>
         <router-link to="/" class="light-blue-text nav-title"
-          >OS Drops</router-link
+          >OS Tracker</router-link
         >
       </v-toolbar-title>
       <v-spacer></v-spacer>
@@ -67,7 +67,8 @@ export default {
     drawer: null,
     routes: [
       { name: "Collection Log", icon: "check_circle_outline", to: "/" },
-      { name: "Tasks", icon: "check_circle_outline", to: "/tasks" }
+      { name: "Tasks", icon: "check_circle_outline", to: "/tasks" },
+      { name: "About", icon: "info", to: "/about" }
     ]
   })
 };
