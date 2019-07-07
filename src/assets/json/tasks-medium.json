@@ -6,58 +6,57 @@
       "icon": "Verac's helm",
       "criteria": "any-1",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        29, 37, 33, 41, 21, 25, 30, 38, 34, 42,
+        22, 26, 31, 39, 35, 43, 23, 27, 32, 40,
+        36, 44, 24, 28
       ]
     },
     {
       "id": 110,
       "title": "Get 1 unique from Barrows",
       "icon": "Verac's helm",
-      "criteria": "any-1",
+      "criteria": "any-2",
+      "prereq": 109,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        29, 37, 33, 41, 21, 25, 30, 38, 34, 42,
+        22, 26, 31, 39, 35, 43, 23, 27, 32, 40,
+        36, 44, 24, 28
       ]
     },
     {
       "id": 111,
       "title": "Get 1 unique from Barrows",
       "icon": "Verac's helm",
-      "criteria": "any-1",
+      "criteria": "any-3",
+      "prereq": 110,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        29, 37, 33, 41, 21, 25, 30, 38, 34, 42,
+        22, 26, 31, 39, 35, 43, 23, 27, 32, 40,
+        36, 44, 24, 28
       ]
     },
     {
       "id": 112,
       "title": "Get 1 unique from Barrows",
       "icon": "Verac's helm",
-      "criteria": "any-1",
+      "criteria": "any-4",
+      "prereq": 111,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        29, 37, 33, 41, 21, 25, 30, 38, 34, 42,
+        22, 26, 31, 39, 35, 43, 23, 27, 32, 40,
+        36, 44, 24, 28
       ]
     },
     {
       "id": 113,
       "title": "Get 1 unique from Barrows",
       "icon": "Verac's helm",
-      "criteria": "any-1",
+      "criteria": "any-5",
+      "prereq": 112,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        29, 37, 33, 41, 21, 25, 30, 38, 34, 42,
+        22, 26, 31, 39, 35, 43, 23, 27, 32, 40,
+        36, 44, 24, 28
       ]
     },
     {
@@ -66,10 +65,7 @@
       "icon": "Bryophyta's essence",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        46
       ]
     },
     {
@@ -78,34 +74,27 @@
       "icon": "Fedora",
       "criteria": "any-1",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        75, 76, 77
       ]
     },
     {
       "id": 116,
       "title": "Get 1 unique from Crazy Archeologist",
       "icon": "Fedora",
-      "criteria": "any-1",
+      "criteria": "any-2",
+      "prereq": 115,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        75, 76, 77
       ]
     },
     {
       "id": 117,
       "title": "Get 1 unique from Crazy Archeologist",
       "icon": "Fedora",
-      "criteria": "any-1",
+      "criteria": "all",
+      "prereq": 116,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        75, 76, 77
       ]
     },
     {
@@ -114,10 +103,7 @@
       "icon": "Fire cape",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        89
       ]
     },
     {
@@ -126,10 +112,7 @@
       "icon": "Granite dust",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        104
       ]
     },
     {
@@ -138,10 +121,7 @@
       "icon": "Hill giant club",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        132
       ]
     },
     {
@@ -150,10 +130,7 @@
       "icon": "Zulrah's scales",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        172
       ]
     },
     {
@@ -162,10 +139,27 @@
       "icon": "Zul-andra teleport",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        170
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Get 1 unique Dark totem piece",
+      "icon": "Dark totem base",
+      "criteria": "any-2",
+      "prereq": 99,
+      "items": [
+        1168, 1169, 1170
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Get 1 unique Dark totem piece",
+      "icon": "Dark totem base",
+      "criteria": "all",
+      "prereq": 229,
+      "items": [
+        1168, 1169, 1170
       ]
     },
     {
@@ -174,10 +168,7 @@
       "icon": "Goblin Champion scroll",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        946
       ]
     },
     {
@@ -186,58 +177,26 @@
       "icon": "Skeleton Champion scroll",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        951
       ]
     },
     {
       "id": 190,
       "title": "Get 1 unique Elder chaos robe piece",
       "icon": "Elder chaos top",
-      "criteria": "all",
+      "criteria": "any-1",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        954, 955, 956
       ]
     },
     {
       "id": 191,
       "title": "Get 1 unique Elder chaos robe piece",
       "icon": "Elder chaos top",
-      "criteria": "all",
+      "criteria": "any-2",
+      "prereq": 190,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 193,
-      "title": "Get a Gold satchel",
-      "icon": "Gold satchel",
-      "criteria": "all",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 194,
-      "title": "Get a Plain satchel",
-      "icon": "Plain satchel",
-      "criteria": "all",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        954, 955, 956
       ]
     },
     {
@@ -246,10 +205,7 @@
       "icon": "Dragon defender",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        989
       ]
     },
     {
@@ -258,10 +214,7 @@
       "icon": "Revenant cave teleport",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1068
       ]
     },
     {
@@ -270,10 +223,9 @@
       "icon": "Shayzien platebody (5)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1078, 1083, 1088, 1093, 1098, 1080, 1085, 1090, 1095, 1100,
+        1079, 1084, 1089, 1094, 1099, 1077, 1082, 1087, 1092, 1097,
+        1096, 1081, 1086, 1091, 1226
       ]
     },
     {
@@ -282,10 +234,7 @@
       "icon": "Basilisk head",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1103
       ]
     },
     {
@@ -294,10 +243,7 @@
       "icon": "Granite maul",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1109
       ]
     },
     {
@@ -306,10 +252,7 @@
       "icon": "Leaf-bladed battleaxe",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1114
       ]
     },
     {
@@ -318,10 +261,7 @@
       "icon": "Granite longsword",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1116
       ]
     },
     {
@@ -330,10 +270,7 @@
       "icon": "Granite legs",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1119
       ]
     },
     {
@@ -342,10 +279,7 @@
       "icon": "Adamant boots",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1125
       ]
     },
     {
@@ -354,10 +288,7 @@
       "icon": "Rune boots",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1126
       ]
     },
     {
@@ -366,10 +297,7 @@
       "icon": "Mystic robe top (light)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1136
       ]
     },
     {
@@ -378,10 +306,7 @@
       "icon": "Mystic robe top (dark)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1141
       ]
     },
     {
@@ -390,58 +315,47 @@
       "icon": "Mystic robe bottom (dark)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1142
       ]
     },
     {
       "id": 223,
       "title": "Get 1 unique Tzhaar drop",
       "icon": "Obsidian cape",
-      "criteria": "any-1",
+      "criteria": "any-3",
+      "prereq": 94,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1151, 1150, 1154, 1152, 1153, 1155, 1156
       ]
     },
     {
       "id": 224,
       "title": "Get 1 unique Tzhaar drop",
       "icon": "Obsidian cape",
-      "criteria": "any-1",
+      "criteria": "any-4",
+      "prereq": 223,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1151, 1150, 1154, 1152, 1153, 1155, 1156
       ]
     },
     {
       "id": 225,
       "title": "Get 1 unique Tzhaar drop",
       "icon": "Obsidian cape",
-      "criteria": "any-1",
+      "criteria": "any-5",
+      "prereq": 224,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1151, 1150, 1154, 1152, 1153, 1155, 1156
       ]
     },
     {
       "id": 226,
       "title": "Get 1 unique Tzhaar drop",
       "icon": "Obsidian cape",
-      "criteria": "any-1",
+      "criteria": "all",
+      "prereq": 225,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1151, 1150, 1154, 1152, 1153, 1155, 1156
       ]
     }
   ],
@@ -450,36 +364,29 @@
       "id": 121,
       "title": "Get 1 Unique from Wintertodt",
       "icon": "Pyromancer hood",
-      "criteria": "any-1",
+      "criteria": "any-5",
+      "prereq": 8,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        158, 157, 159, 161, 160, 155, 162
       ]
     },
     {
       "id": 122,
       "title": "Get 1 Unique from Wintertodt",
       "icon": "Pyromancer hood",
-      "criteria": "any-1",
+      "criteria": "any-6",
+      "prereq": 121,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        158, 157, 159, 161, 160, 155, 162
       ]
     },
     {
       "id": 123,
       "title": "Get 1 Unique from Wintertodt",
       "icon": "Pyromancer hood",
-      "criteria": "any-1",
+      "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        158, 157, 159, 161, 160, 155, 162
       ]
     },
     {
@@ -488,10 +395,7 @@
       "icon": "Fighter hat",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        808
       ]
     },
     {
@@ -500,10 +404,7 @@
       "icon": "Healer hat",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        811
       ]
     },
     {
@@ -512,10 +413,7 @@
       "icon": "Runner hat",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        810
       ]
     },
     {
@@ -524,10 +422,7 @@
       "icon": "Ranger hat",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        809
       ]
     },
     {
@@ -536,10 +431,7 @@
       "icon": "Fighter torso",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        812
       ]
     },
     {
@@ -548,10 +440,7 @@
       "icon": "Granite helm",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        816
       ]
     },
     {
@@ -560,10 +449,7 @@
       "icon": "Decorative armour (ranged top)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        845
       ]
     },
     {
@@ -572,10 +458,7 @@
       "icon": "Decorative armour (ranged legs)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        846
       ]
     },
     {
@@ -584,10 +467,7 @@
       "icon": "Decorative armour (quiver)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        847
       ]
     },
     {
@@ -596,10 +476,7 @@
       "icon": "Decorative armour (magic hat)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        842
       ]
     },
     {
@@ -608,10 +485,7 @@
       "icon": "Decorative armour (magic top)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        843
       ]
     },
     {
@@ -620,70 +494,57 @@
       "icon": "Decorative armour (magic legs)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        844
       ]
     },
     {
       "id": 155,
       "title": "Get 1 Angler piece",
       "icon": "Angler hat",
-      "criteria": "any-1",
+      "criteria": "any-2",
+      "prereq": 35,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        851, 852, 853, 854
       ]
     },
     {
       "id": 156,
       "title": "Get 1 Angler piece",
       "icon": "Angler hat",
-      "criteria": "any-1",
+      "criteria": "any-3",
+      "prereq": 155,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        851, 852, 853, 854
       ]
     },
     {
       "id": 157,
       "title": "Get 1 Angler piece",
       "icon": "Angler hat",
-      "criteria": "any-1",
+      "criteria": "all",
+      "prereq": 156,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        851, 852, 853, 854
       ]
     },
     {
       "id": 158,
       "title": "Get 1 new unique from Gnome Restaurant",
       "icon": "Gnome scarf",
-      "criteria": "any-1",
+      "criteria": "any-2",
+      "prereq": 36,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        855, 856, 857, 858
       ]
     },
     {
       "id": 159,
       "title": "Get 1 new unique from Gnome Restaurant",
       "icon": "Gnome scarf",
-      "criteria": "any-1",
+      "criteria": "any-3",
+      "prereq": 158,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        855, 856, 857, 858
       ]
     },
     {
@@ -692,10 +553,7 @@
       "icon": "Apprentice wand",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        860
       ]
     },
     {
@@ -704,10 +562,7 @@
       "icon": "Teacher wand",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        861
       ]
     },
     {
@@ -716,10 +571,7 @@
       "icon": "Master wand",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        862
       ]
     },
     {
@@ -728,10 +580,7 @@
       "icon": "Infinity hat",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        863
       ]
     },
     {
@@ -740,10 +589,7 @@
       "icon": "Mage's book",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        868
       ]
     },
     {
@@ -752,22 +598,16 @@
       "icon": "Void melee helm",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        875
       ]
     },
     {
       "id": 166,
-      "title": "Get a Void magic helm",
-      "icon": "Void magic helm",
+      "title": "Get a Void mage helm",
+      "icon": "Void mage helm",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        874
       ]
     },
     {
@@ -776,10 +616,7 @@
       "icon": "Void ranger helm",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        876
       ]
     },
     {
@@ -788,10 +625,7 @@
       "icon": "Void Knight top",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        871
       ]
     },
     {
@@ -800,46 +634,37 @@
       "icon": "Void Knight robe",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        872
       ]
     },
     {
       "id": 170,
       "title": "Get 1 piece of Rogue equipment",
       "icon": "Rogue top",
-      "criteria": "any-1",
+      "criteria": "any-3",
+      "prereq": 45,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        880, 881, 882, 883, 884
       ]
     },
     {
       "id": 171,
       "title": "Get 1 piece of Rogue equipment",
       "icon": "Rogue top",
-      "criteria": "any-1",
+      "criteria": "any-4",
+      "prereq": 170,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        880, 881, 882, 883, 884
       ]
     },
     {
       "id": 172,
       "title": "Get 1 piece of Rogue equipment",
       "icon": "Rogue top",
-      "criteria": "any-1",
+      "criteria": "all",
+      "prereq": 171,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        880, 881, 882, 883, 884
       ]
     },
     {
@@ -848,10 +673,7 @@
       "icon": "Amulet of the damned",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        885
       ]
     },
     {
@@ -860,58 +682,7 @@
       "icon": "Flamtaer bag",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 175,
-      "title": "Get 1 piece of Lumberjack equipment",
-      "icon": "Lumberjack top",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 176,
-      "title": "Get 1 piece of Lumberjack equipment",
-      "icon": "Lumberjack top",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 177,
-      "title": "Get 1 piece of Lumberjack equipment",
-      "icon": "Lumberjack top",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 178,
-      "title": "Get the Farmer's strawhat",
-      "icon": "Farmer's strawhat",
-      "criteria": "all",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        886
       ]
     },
     {
@@ -920,10 +691,7 @@
       "icon": "Farmer's boro trousers",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        894
       ]
     },
     {
@@ -932,10 +700,16 @@
       "icon": "Farmer's jacket",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        893
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Get the Gricoller's can",
+      "icon": "Gricoller's can",
+      "criteria": "all",
+      "items": [
+        897
       ]
     },
     {
@@ -944,10 +718,7 @@
       "icon": "Seed box",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        896
       ]
     },
     {
@@ -956,10 +727,7 @@
       "icon": "Red naval shirt",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        905, 904, 906
       ]
     },
     {
@@ -968,10 +736,7 @@
       "icon": "Black naval shirt",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        910, 911, 912
       ]
     },
     {
@@ -980,10 +745,7 @@
       "icon": "Cutthroat flag",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        919
       ]
     },
     {
@@ -992,10 +754,7 @@
       "icon": "Guilded smile flag",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        920
       ]
     }
   ],
@@ -1006,22 +765,17 @@
       "icon": "Dark relic",
       "criteria": "any-1",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        187, 188
       ]
     },
     {
       "id": 127,
       "title": "Get a Dark relic or Torn prayer scroll",
       "icon": "Dark relic",
-      "criteria": "any-1",
+      "criteria": "all",
+      "prereq": 126,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        187, 188
       ]
     }
   ],
@@ -1030,180 +784,333 @@
       "id": 128,
       "title": "Get 5 new uniques from beginner clues",
       "icon": "Clue scroll (beginner)",
-      "criteria": "any-5",
+      "criteria": "any-10",
+      "prereq": 9,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        218, 219, 220, 212, 222, 223, 221, 209, 215, 216,
+        217, 211, 213, 214, 224, 210
       ]
     },
     {
       "id": 129,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-35",
+      "prereq": 15,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 130,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-40",
+      "prereq": 129,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 131,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-45",
+      "prereq": 130,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 132,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-50",
+      "prereq": 131,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 133,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-55",
+      "prereq": 132,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 134,
       "title": "Get 5 new uniques from easy clues",
       "icon": "Clue scroll (easy)",
-      "criteria": "any-5",
+      "criteria": "any-60",
+      "prereq": 133,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        281, 286, 271, 276, 257, 262, 277, 282, 267, 272,
+        258, 263, 278, 283, 268, 273, 259, 264, 279, 284,
+        269, 274, 260, 265, 280, 285, 270, 275, 261, 266,
+        232, 237, 247, 252, 242, 225, 233, 238, 248, 253,
+        243, 227, 234, 239, 249, 254, 244, 226, 235, 240,
+        250, 255, 245, 228, 236, 241, 251, 256, 246, 336,
+        302, 299, 296, 293, 291, 292, 303, 300, 297, 294,
+        289, 290, 304, 301, 295, 298, 287, 288, 342, 343,
+        338, 339, 346, 347, 344, 345, 340, 341, 348, 349,
+        307, 311, 309, 315, 317, 313, 308, 312, 310, 316,
+        318, 314, 321, 320, 319, 322, 323, 337, 305, 229,
+        350, 331, 327, 326, 306, 230, 351, 332, 325, 328,
+        231, 352, 329, 333, 324, 330, 353, 354, 335, 334,
+        224
       ]
     },
     {
       "id": 135,
       "title": "Get 5 new uniques from medium clues",
       "icon": "Clue scroll (medium)",
-      "criteria": "any-5",
+      "criteria": "any-25",
+      "prereq": 19,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        385, 390, 360, 365, 375, 380, 386, 391, 361, 366,
+        376, 381, 387, 392, 362, 367, 377, 382, 388, 393,
+        363, 368, 378, 383, 394, 389, 364, 369, 379, 384,
+        370, 371, 372, 373, 374, 436, 396, 395, 447, 444,
+        445, 446, 398, 397, 448, 443, 449, 450, 399, 403,
+        401, 409, 413, 405, 400, 404, 402, 410, 414, 406,
+        411, 415, 407, 412, 416, 408, 459, 460, 451, 452,
+        421, 424, 461, 462, 453, 454, 422, 417, 455, 456,
+        463, 464, 419, 418, 457, 458, 465, 466, 420, 423,
+        425, 426, 429, 427, 433, 435, 432, 431, 428, 430,
+        434, 468, 440, 437, 441, 439, 438, 442, 357, 359,
+        355, 356, 358, 469, 467
       ]
     },
     {
       "id": 136,
       "title": "Get 5 new uniques from medium clues",
       "icon": "Clue scroll (medium)",
-      "criteria": "any-5",
+      "criteria": "any-30",
+      "prereq": 135,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        385, 390, 360, 365, 375, 380, 386, 391, 361, 366,
+        376, 381, 387, 392, 362, 367, 377, 382, 388, 393,
+        363, 368, 378, 383, 394, 389, 364, 369, 379, 384,
+        370, 371, 372, 373, 374, 436, 396, 395, 447, 444,
+        445, 446, 398, 397, 448, 443, 449, 450, 399, 403,
+        401, 409, 413, 405, 400, 404, 402, 410, 414, 406,
+        411, 415, 407, 412, 416, 408, 459, 460, 451, 452,
+        421, 424, 461, 462, 453, 454, 422, 417, 455, 456,
+        463, 464, 419, 418, 457, 458, 465, 466, 420, 423,
+        425, 426, 429, 427, 433, 435, 432, 431, 428, 430,
+        434, 468, 440, 437, 441, 439, 438, 442, 357, 359,
+        355, 356, 358, 469, 467
       ]
     },
     {
       "id": 137,
       "title": "Get 5 new uniques from medium clues",
       "icon": "Clue scroll (medium)",
-      "criteria": "any-5",
+      "criteria": "any-35",
+      "prereq": 136,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        385, 390, 360, 365, 375, 380, 386, 391, 361, 366,
+        376, 381, 387, 392, 362, 367, 377, 382, 388, 393,
+        363, 368, 378, 383, 394, 389, 364, 369, 379, 384,
+        370, 371, 372, 373, 374, 436, 396, 395, 447, 444,
+        445, 446, 398, 397, 448, 443, 449, 450, 399, 403,
+        401, 409, 413, 405, 400, 404, 402, 410, 414, 406,
+        411, 415, 407, 412, 416, 408, 459, 460, 451, 452,
+        421, 424, 461, 462, 453, 454, 422, 417, 455, 456,
+        463, 464, 419, 418, 457, 458, 465, 466, 420, 423,
+        425, 426, 429, 427, 433, 435, 432, 431, 428, 430,
+        434, 468, 440, 437, 441, 439, 438, 442, 357, 359,
+        355, 356, 358, 469, 467
       ]
     },
     {
       "id": 138,
       "title": "Get 5 new uniques from medium clues",
       "icon": "Clue scroll (medium)",
-      "criteria": "any-5",
+      "criteria": "any-40",
+      "prereq": 137,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        385, 390, 360, 365, 375, 380, 386, 391, 361, 366,
+        376, 381, 387, 392, 362, 367, 377, 382, 388, 393,
+        363, 368, 378, 383, 394, 389, 364, 369, 379, 384,
+        370, 371, 372, 373, 374, 436, 396, 395, 447, 444,
+        445, 446, 398, 397, 448, 443, 449, 450, 399, 403,
+        401, 409, 413, 405, 400, 404, 402, 410, 414, 406,
+        411, 415, 407, 412, 416, 408, 459, 460, 451, 452,
+        421, 424, 461, 462, 453, 454, 422, 417, 455, 456,
+        463, 464, 419, 418, 457, 458, 465, 466, 420, 423,
+        425, 426, 429, 427, 433, 435, 432, 431, 428, 430,
+        434, 468, 440, 437, 441, 439, 438, 442, 357, 359,
+        355, 356, 358, 469, 467
       ]
     },
     {
       "id": 139,
       "title": "Get 5 new uniques from hard clues",
       "icon": "Clue scroll (hard)",
-      "criteria": "any-5",
+      "criteria": "any-15",
+      "prereq": 21,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        519, 509, 514, 529, 534, 524, 520, 510, 515, 530,
+        535, 525, 521, 511, 516, 531, 536, 526, 522, 512,
+        517, 532, 537, 527, 523, 513, 518, 533, 538, 528,
+        499, 504, 544, 549, 539, 625, 500, 505, 545, 550,
+        540, 496, 501, 506, 546, 551, 541, 495, 502, 507,
+        547, 552, 542, 498, 503, 508, 548, 553, 543, 497,
+        481, 470, 476, 493, 488, 486, 480, 471, 474, 491,
+        489, 483, 479, 472, 475, 492, 485, 484, 482, 473,
+        477, 478, 490, 487, 554, 566, 560, 578, 572, 584,
+        555, 567, 561, 579, 573, 585, 556, 568, 562, 580,
+        574, 586, 558, 570, 564, 582, 576, 588, 557, 569,
+        563, 581, 575, 587, 559, 571, 565, 583, 577, 589,
+        594, 596, 590, 592, 494, 627, 595, 597, 591, 593,
+        609, 616, 620, 601, 602, 598, 614, 610, 622, 605,
+        606, 599, 615, 612, 621, 603, 604, 600, 613, 611,
+        619, 608, 607, 626, 617, 618, 624, 623
       ]
     },
     {
       "id": 140,
       "title": "Get 5 new uniques from hard clues",
       "icon": "Clue scroll (hard)",
-      "criteria": "any-5",
+      "criteria": "any-20",
+      "prereq": 139,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        519, 509, 514, 529, 534, 524, 520, 510, 515, 530,
+        535, 525, 521, 511, 516, 531, 536, 526, 522, 512,
+        517, 532, 537, 527, 523, 513, 518, 533, 538, 528,
+        499, 504, 544, 549, 539, 625, 500, 505, 545, 550,
+        540, 496, 501, 506, 546, 551, 541, 495, 502, 507,
+        547, 552, 542, 498, 503, 508, 548, 553, 543, 497,
+        481, 470, 476, 493, 488, 486, 480, 471, 474, 491,
+        489, 483, 479, 472, 475, 492, 485, 484, 482, 473,
+        477, 478, 490, 487, 554, 566, 560, 578, 572, 584,
+        555, 567, 561, 579, 573, 585, 556, 568, 562, 580,
+        574, 586, 558, 570, 564, 582, 576, 588, 557, 569,
+        563, 581, 575, 587, 559, 571, 565, 583, 577, 589,
+        594, 596, 590, 592, 494, 627, 595, 597, 591, 593,
+        609, 616, 620, 601, 602, 598, 614, 610, 622, 605,
+        606, 599, 615, 612, 621, 603, 604, 600, 613, 611,
+        619, 608, 607, 626, 617, 618, 624, 623
       ]
     },
     {
       "id": 141,
       "title": "Get 5 new uniques from hard clues",
       "icon": "Clue scroll (hard)",
-      "criteria": "any-5",
+      "criteria": "any-25",
+      "prereq": 140,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        519, 509, 514, 529, 534, 524, 520, 510, 515, 530,
+        535, 525, 521, 511, 516, 531, 536, 526, 522, 512,
+        517, 532, 537, 527, 523, 513, 518, 533, 538, 528,
+        499, 504, 544, 549, 539, 625, 500, 505, 545, 550,
+        540, 496, 501, 506, 546, 551, 541, 495, 502, 507,
+        547, 552, 542, 498, 503, 508, 548, 553, 543, 497,
+        481, 470, 476, 493, 488, 486, 480, 471, 474, 491,
+        489, 483, 479, 472, 475, 492, 485, 484, 482, 473,
+        477, 478, 490, 487, 554, 566, 560, 578, 572, 584,
+        555, 567, 561, 579, 573, 585, 556, 568, 562, 580,
+        574, 586, 558, 570, 564, 582, 576, 588, 557, 569,
+        563, 581, 575, 587, 559, 571, 565, 583, 577, 589,
+        594, 596, 590, 592, 494, 627, 595, 597, 591, 593,
+        609, 616, 620, 601, 602, 598, 614, 610, 622, 605,
+        606, 599, 615, 612, 621, 603, 604, 600, 613, 611,
+        619, 608, 607, 626, 617, 618, 624, 623
       ]
     },
     {
       "id": 142,
       "title": "Get 5 new uniques from hard clues",
       "icon": "Clue scroll (hard)",
-      "criteria": "any-5",
+      "criteria": "any-30",
+      "prereq": 141,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        519, 509, 514, 529, 534, 524, 520, 510, 515, 530,
+        535, 525, 521, 511, 516, 531, 536, 526, 522, 512,
+        517, 532, 537, 527, 523, 513, 518, 533, 538, 528,
+        499, 504, 544, 549, 539, 625, 500, 505, 545, 550,
+        540, 496, 501, 506, 546, 551, 541, 495, 502, 507,
+        547, 552, 542, 498, 503, 508, 548, 553, 543, 497,
+        481, 470, 476, 493, 488, 486, 480, 471, 474, 491,
+        489, 483, 479, 472, 475, 492, 485, 484, 482, 473,
+        477, 478, 490, 487, 554, 566, 560, 578, 572, 584,
+        555, 567, 561, 579, 573, 585, 556, 568, 562, 580,
+        574, 586, 558, 570, 564, 582, 576, 588, 557, 569,
+        563, 581, 575, 587, 559, 571, 565, 583, 577, 589,
+        594, 596, 590, 592, 494, 627, 595, 597, 591, 593,
+        609, 616, 620, 601, 602, 598, 614, 610, 622, 605,
+        606, 599, 615, 612, 621, 603, 604, 600, 613, 611,
+        619, 608, 607, 626, 617, 618, 624, 623
       ]
     }
   ],
@@ -1214,10 +1121,7 @@
       "icon": "Pearl fly fishing rod",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        930
       ]
     },
     {
@@ -1226,10 +1130,7 @@
       "icon": "Pearl barbarian rod",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        931
       ]
     },
     {
@@ -1238,10 +1139,7 @@
       "icon": "Coal bag",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1006
       ]
     },
     {
@@ -1250,10 +1148,7 @@
       "icon": "Gem bag",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1007
       ]
     },
     {
@@ -1262,10 +1157,7 @@
       "icon": "Graceful boots",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1075
       ]
     },
     {
@@ -1274,10 +1166,7 @@
       "icon": "Graceful top",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1072
       ]
     },
     {
@@ -1286,10 +1175,7 @@
       "icon": "Graceful legs",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1073
       ]
     },
     {
@@ -1298,10 +1184,7 @@
       "icon": "Big shark",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1162
       ]
     },
     {
@@ -1310,10 +1193,7 @@
       "icon": "Superior mining gloves",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1186
       ]
     }
   ],
@@ -1321,133 +1201,82 @@
     {
       "id": 192,
       "title": "Get the Bowmaster headpiece",
-      "icon": "Chompy hat (bowmaster)",
+      "icon": "Chompy bird hat (bowmaster)",
       "criteria": "all",
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 196,
-      "title": "Get 1 unique note from Fossil Island",
-      "icon": "Fossil Island note",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 197,
-      "title": "Get 1 unique note from Fossil Island",
-      "icon": "Fossil Island note",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 198,
-      "title": "Get 1 unique note from Fossil Island",
-      "icon": "Fossil Island note",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
-      ]
-    },
-    {
-      "id": 199,
-      "title": "Get 1 unique note from Fossil Island",
-      "icon": "Fossil Island note",
-      "criteria": "any-1",
-      "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        968
       ]
     },
     {
       "id": 202,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-6",
+      "prereq": 69,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     },
     {
       "id": 203,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-8",
+      "prereq": 202,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     },
     {
       "id": 204,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-10",
+      "prereq": 203,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     },
     {
       "id": 205,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-12",
+      "prereq": 204,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     },
     {
       "id": 206,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-14",
+      "prereq": 205,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     },
     {
       "id": 207,
       "title": "Get 2 unique Ancient pages",
       "icon": "Ancient page notes",
-      "criteria": "any-2",
+      "criteria": "any-16",
+      "prereq": 206,
       "items": [
-        {
-          "id": 0,
-          "name": "PLACEHOLDER"
-        }
+        1037, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209,
+        1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1221, 1222, 1223, 1224, 1225
       ]
     }
   ]
