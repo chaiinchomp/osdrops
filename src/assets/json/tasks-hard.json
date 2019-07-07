@@ -332,7 +332,7 @@
     {
       "id": 266,
       "title": "Get a unique ring/seercull from Supreme",
-      "icon": "Archer ring",
+      "icon": "Archers ring",
       "criteria": "any-1",
       "items": [
         82, 86
@@ -341,7 +341,7 @@
     {
       "id": 268,
       "title": "Get a unique ring/seercull from Supreme",
-      "icon": "Archer ring",
+      "icon": "Archers ring",
       "criteria": "all",
       "prereq": 266,
       "items": [

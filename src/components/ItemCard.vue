@@ -1,5 +1,5 @@
 <template>
-  <v-card v-show="!empty" :class="{ compact }">
+  <v-card v-show="!empty">
     <div class="item-card-header">
       <span class="subheading" :class="{ 'green--text': completed }">
         {{ card.title }}

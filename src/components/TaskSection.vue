@@ -5,7 +5,7 @@
     <div class="section-content">
       <TaskCard
         v-for="card in cards"
-        :key="card.title"
+        :key="card.id"
         :card="card"
         :editable="editable"
       />
